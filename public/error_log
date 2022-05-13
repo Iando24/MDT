@@ -1,0 +1,20 @@
+[17-Oct-2021 19:39:10 UTC] PHP Warning:  Uncaught ErrorException: require_once(/home/derrick/Public/digital_eye_api/vendor/autoload.php): failed to open stream: No such file or directory in /home/umm10/public_html/app/Http/Controllers/Admin/NotificationController.php:5
+Stack trace:
+#0 /home/umm10/public_html/app/Http/Controllers/Admin/NotificationController.php(5): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(2, 'require_once(/h...', '/home/umm10/pub...', 5, Array)
+#1 /home/umm10/public_html/app/Http/Controllers/Admin/NotificationController.php(5): require_once()
+#2 /home/umm10/public_html/vendor/composer/ClassLoader.php(444): include('/home/umm10/pub...')
+#3 /home/umm10/public_html/vendor/composer/ClassLoader.php(322): Composer\Autoload\includeFile('/home/umm10/pub...')
+#4 [internal function]: Composer\Autoload\ClassLoader->loadClass('App\\Http\\Contro...')
+#5 [internal function]: spl_autoload_call('App\\Http\\Contro...')
+#6 /home/umm10/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(877): ReflectionClas in /home/umm10/public_html/app/Http/Controllers/Admin/NotificationController.php on line 5
+[17-Oct-2021 19:39:10 UTC] PHP Fatal error:  main(): Failed opening required '/home/derrick/Public/digital_eye_api/vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/umm10/public_html/app/Http/Controllers/Admin/NotificationController.php on line 5
+[18-Oct-2021 09:01:28 UTC] PHP Warning:  Uncaught ErrorException: require_once(/home/derrick/Public/digital_eye_api/vendor/autoload.php): failed to open stream: No such file or directory in /home/umm10/public_html/app/Http/Controllers/Admin/NotificationController.php:5
+Stack trace:
+#0 /home/umm10/public_html/app/Http/Controllers/Admin/NotificationController.php(5): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(2, 'require_once(/h...', '/home/umm10/pub...', 5, Array)
+#1 /home/umm10/public_html/app/Http/Controllers/Admin/NotificationController.php(5): require_once()
+#2 /home/umm10/public_html/vendor/composer/ClassLoader.php(444): include('/home/umm10/pub...')
+#3 /home/umm10/public_html/vendor/composer/ClassLoader.php(322): Composer\Autoload\includeFile('/home/umm10/pub...')
+#4 [internal function]: Composer\Autoload\ClassLoader->loadClass('App\\Http\\Contro...')
+#5 [internal function]: spl_autoload_call('App\\Http\\Contro...')
+#6 /home/umm10/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(877): ReflectionClas in /home/umm10/public_html/app/Http/Controllers/Admin/NotificationController.php on line 5
+[18-Oct-2021 09:01:28 UTC] PHP Fatal error:  main(): Failed opening required '/home/derrick/Public/digital_eye_api/vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/umm10/public_html/app/Http/Controllers/Admin/NotificationController.php on line 5

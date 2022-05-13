@@ -1,0 +1,1777 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="450"
+   height="677"
+   viewBox="0 0 450.00001 677"
+   id="svg2"
+   version="1.1"
+   inkscape:version="1.0.2 (e86c870879, 2021-01-15, custom)"
+   sodipodi:docname="576612925login-visual-1.svg">
+  <metadata
+     id="metadata814">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>EPA</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <cc:license
+           rdf:resource="http://creativecommons.org/publicdomain/zero/1.0/" />
+        <dc:description>remix by j4p4n</dc:description>
+      </cc:Work>
+      <cc:License
+         rdf:about="http://creativecommons.org/publicdomain/zero/1.0/">
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Reproduction" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Distribution" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs812" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     id="namedview810"
+     showgrid="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:zoom="1.424386"
+     inkscape:cx="391.53812"
+     inkscape:cy="338.28135"
+     inkscape:window-x="1912"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg2"
+     inkscape:document-rotation="0" />
+  <g
+     transform="matrix(1.9241607,0,0,1.9241607,12.51916,174.61498)"
+     id="g4"
+     style="fill:none">
+    <g
+       transform="translate(118)"
+       id="g6">
+      <g
+         transform="translate(87,44)"
+         id="g8">
+        <path
+           d="M 2.1,8.9 1,8.2 0.9,8 1,7.9 2.1,8.6 C 3,9.1 3.7,8.7 3.7,7.7 V 3.9 C 3.7,2.9 3,1.6 2.1,1.1 L 1,0.4 0.9,0.2 1,0.1 2.1,0.8 C 3.1,1.4 4,2.8 4,4 V 7.8 C 4,9 3.1,9.5 2.1,8.9 Z"
+           id="path10"
+           inkscape:connector-curvature="0"
+           style="fill:#f6cd4a" />
+        <path
+           d="M 2,9 0.9,8.3 V 8 L 2,8.7 C 2.9,9.2 3.6,8.8 3.6,7.8 V 4 C 3.6,3 2.9,1.7 2,1.2 L 0.9,0.5 V 0.2 L 2,0.9 c 1,0.6 1.9,2 1.9,3.2 V 7.9 C 3.8,9.1 3,9.6 2,9 Z"
+           id="path12"
+           inkscape:connector-curvature="0"
+           style="fill:#faaf3b" />
+      </g>
+      <g
+         transform="translate(90,46)"
+         id="g14">
+        <g
+           transform="translate(0,3)"
+           id="g16">
+          <polygon
+             points="2.2,0.7 2.2,3.3 1,4 1,1.4 "
+             id="polygon18"
+             style="fill:#545454" />
+          <polygon
+             points="1,1.4 2.2,0.7 2,0.6 0.8,1.3 "
+             id="polygon20"
+             style="fill:#6b6b6b" />
+          <polygon
+             points="1,1.4 1,4 0.8,3.9 0.8,1.3 "
+             id="polygon22"
+             style="fill:#3e3e3e" />
+        </g>
+        <polygon
+           points="2.2,0.3 2.2,2.9 1,3.6 1,1 "
+           id="polygon24"
+           style="fill:#545454" />
+        <polygon
+           points="1,1 2.2,0.3 2,0.2 0.8,0.9 "
+           id="polygon26"
+           style="fill:#6b6b6b" />
+        <polygon
+           points="1,1 1,3.6 0.8,3.5 0.8,0.9 "
+           id="polygon28"
+           style="fill:#3e3e3e" />
+      </g>
+      <polygon
+         points="21.5,38.7 27.4,42.1 21.5,45.5 "
+         id="polygon30"
+         style="fill:#262626" />
+      <g
+         transform="translate(21,41)"
+         id="g32">
+        <path
+           d="M 7,11.3 C 7.2,11.2 7.5,11 7.6,10.7 7.9,10.3 8,9.7 8,8.9 8,6.5 6.3,3.7 4.3,2.5 3.7,2.1 3.1,2 2.5,2 2.2,2 1.9,2.1 1.7,2.2 L 4.5,0.6 c 0.7,-0.4 1.6,-0.3 2.6,0.3 2,1.2 3.7,4 3.7,6.4 0,1.2 -0.4,2 -1.1,2.4 z"
+           id="path34"
+           inkscape:connector-curvature="0"
+           style="fill:#2a2a2a" />
+        <path
+           d="M 4.4,11.1 C 2.4,9.9 0.7,7 0.7,4.7 0.7,3.5 1.1,2.7 1.8,2.3 2,2.2 2.3,2.1 2.6,2.1 c 0.5,0 1.1,0.1 1.8,0.5 2,1.2 3.7,4 3.7,6.4 0,0.7 -0.2,1.3 -0.4,1.8 -0.2,0.3 -0.4,0.5 -0.6,0.6 -0.7,0.3 -1.7,0.3 -2.7,-0.3 z"
+           id="path36"
+           inkscape:connector-curvature="0"
+           style="fill:#3a3a3a" />
+        <path
+           d="M 2.3,5.6 C 2.3,4.3 3.2,3.7 4.4,4.4 5.6,5.1 6.5,6.7 6.5,8 6.5,9.3 5.6,9.9 4.4,9.2 3.3,8.5 2.3,6.9 2.3,5.6 Z"
+           id="path38"
+           inkscape:connector-curvature="0"
+           style="fill:#b2b2b2" />
+        <path
+           d="M 3.1,4.6 C 3.3,4.5 3.5,4.5 3.7,4.5 3.9,4.5 4.1,4.6 4.3,4.7 4.8,5 5.3,5.5 5.6,6.1 6,6.7 6.1,7.4 6.1,7.9 6.1,8.1 6.1,8.4 6,8.5 5.9,8.7 5.8,8.9 5.6,8.9 5.3,9.1 4.9,9 4.4,8.8 3.9,8.5 3.4,8 3.1,7.4 2.7,6.8 2.6,6.1 2.6,5.6 2.7,5.1 2.9,4.8 3.1,4.6 Z"
+           id="path40"
+           inkscape:connector-curvature="0"
+           style="fill:#818181" />
+        <path
+           d="M 3.7,4.5 C 3.9,4.5 4.1,4.6 4.3,4.7 4.8,5 5.3,5.5 5.6,6.1 6,6.7 6.1,7.4 6.1,7.9 6.1,8.1 6.1,8.4 6,8.5 5.8,8.5 5.6,8.4 5.4,8.3 4.9,8 4.4,7.5 4.1,6.9 3.7,6.3 3.6,5.6 3.6,5.1 3.6,4.9 3.6,4.7 3.7,4.5 Z"
+           id="path42"
+           inkscape:connector-curvature="0"
+           style="fill:#989898" />
+        <g
+           transform="translate(3,5)"
+           id="g44">
+          <path
+             d="M 2.4,2.7 C 2.5,2.7 2.5,2.6 2.6,2.6 2.7,2.5 2.7,2.3 2.7,2.2 2.7,1.6 2.3,0.9 1.8,0.6 1.6,0.5 1.5,0.5 1.4,0.5 1.3,0.5 1.3,0.5 1.2,0.6 L 1.9,0.2 C 2.1,0.1 2.3,0.1 2.5,0.3 3,0.6 3.4,1.3 3.4,1.9 3.4,2.2 3.3,2.4 3.1,2.5 Z"
+             id="path46"
+             inkscape:connector-curvature="0"
+             style="fill:#2a2a2a" />
+          <path
+             d="M 1.8,2.6 C 1.3,2.3 0.9,1.6 0.9,1 0.9,0.7 1,0.5 1.2,0.4 c 0.1,0 0.1,-0.1 0.2,-0.1 0.1,0 0.3,0 0.4,0.1 0.5,0.3 0.9,1 0.9,1.6 0,0.2 0,0.3 -0.1,0.4 C 2.6,2.5 2.5,2.5 2.4,2.5 2.2,2.8 2,2.8 1.8,2.6 Z"
+             id="path48"
+             inkscape:connector-curvature="0"
+             style="fill:#3a3a3a" />
+          <path
+             d="m 1.3,0.9 c 0,0 0.1,0 0.1,0 0,0 0,0 0,0 0.1,0 0.2,0 0.3,0.1 0.3,0.2 0.6,0.6 0.6,1 0,0.1 0,0.2 -0.1,0.3 0,0 0,0 0,0 0,0 -0.1,0.1 -0.1,0.1 C 2,2.5 1.8,2.5 1.7,2.4 1.4,2.2 1.1,1.8 1.1,1.4 1.2,1.1 1.2,0.9 1.3,0.9 Z"
+             id="path50"
+             inkscape:connector-curvature="0"
+             style="fill:#545454" />
+          <path
+             d="m 1.5,0.9 c 0.1,0 0.2,0 0.3,0.1 0.3,0.2 0.6,0.6 0.6,1 0,0.1 0,0.2 -0.1,0.3 C 2.2,2.3 2.1,2.3 2.1,2.2 1.8,2 1.5,1.6 1.5,1.2 1.4,1 1.5,0.9 1.5,0.9 Z"
+             id="path52"
+             inkscape:connector-curvature="0"
+             style="fill:#6b6b6b" />
+        </g>
+      </g>
+      <polygon
+         points="89.3,42.2 89.3,64.8 70.1,75.9 70.1,53.3 "
+         id="polygon54"
+         style="fill:#faaf3b" />
+      <path
+         d="M 70.1,53.3 V 75.9 L 59,69.5 58,66.6 31,51 30.1,50.5 c 0,0 0,0 0,-0.1 0,-2.7 -1.9,-6.1 -4.3,-7.5 -2.4,-1.4 -4.3,-0.3 -4.3,2.5 v 0.1 L 1.5,33.9 V 13.6 Z"
+         id="path56"
+         inkscape:connector-curvature="0"
+         style="fill:#faaf3b" />
+      <path
+         d="m 30.6,51.2 c 0,0 0,0 0,0 l -0.9,-0.4 c 0,0 0,0 0,-0.1 0,-2.7 -1.9,-6.1 -4.3,-7.5 -1.1,-0.6 -2.1,-0.7 -2.8,-0.4 -0.8,0.4 -1.4,1.2 -1.5,2.5 0,0.1 0,0.3 0,0.4 0,0 0,0 0,0.1 l -0.9,-0.5 c 0,0 0,0 0,-0.1 0,-1.6 0.6,-2.8 1.5,-3.4 0.1,0 0.1,-0.1 0.2,-0.1 0.9,-0.4 2.1,-0.3 3.4,0.5 2.7,1.6 5,5.3 5.2,8.5 0,0.2 0.1,0.4 0.1,0.5 z"
+         id="path58"
+         inkscape:connector-curvature="0"
+         style="fill:#6b6b6b" />
+      <path
+         d="M 88.6,44.2 V 53 c 0,0.1 -0.1,0.3 -0.2,0.4 l -8.4,4.9 -0.4,0.2 -8.4,4.9 c -0.1,0.1 -0.2,0 -0.2,-0.1 v -8.8 c 0,-0.1 0.1,-0.3 0.2,-0.4 0.5,-0.3 8.2,-4.7 8.8,-5.1 l 8.4,-4.9 c 0.1,-0.2 0.2,-0.1 0.2,0.1 z"
+         id="path60"
+         inkscape:connector-curvature="0"
+         style="fill:#3e3e3e" />
+      <path
+         d="m 71.2,62.8 v -8.3 c 0,-0.1 0.1,-0.3 0.2,-0.4 l 16.8,-9.7 c 0.1,-0.1 0.2,0 0.2,0.1 v 8.3 c 0,0.1 -0.1,0.3 -0.2,0.4 l -16.8,9.7 c -0.2,0.1 -0.2,0 -0.2,-0.1 z"
+         id="path62"
+         inkscape:connector-curvature="0"
+         style="fill:#6b6b6b" />
+      <path
+         d="m 31,51 v 0 l -0.4,0.3 c 0,0 0,0 0,-0.1 0,-0.1 0,-0.3 0,-0.4 -0.2,-3.2 -2.4,-7 -5.2,-8.5 -1.3,-0.8 -2.5,-0.9 -3.4,-0.5 -0.1,0 -0.1,0.1 -0.2,0.1 l 0.4,-0.2 c 0.9,-0.5 2.2,-0.5 3.7,0.4 2.7,1.5 5.1,5.6 5.1,8.9 z"
+         id="path64"
+         inkscape:connector-curvature="0"
+         style="fill:#545454" />
+      <path
+         d="m 22.5,42.8 c -0.7,0.5 -1.1,1.4 -1.1,2.7 v 0.1 L 21,45.8 c 0,0 0,0 0,-0.1 0,-0.1 0,-0.3 0,-0.4 0.2,-1.3 0.7,-2.1 1.5,-2.5 z"
+         id="path66"
+         inkscape:connector-curvature="0"
+         style="fill:#262626" />
+      <polygon
+         points="7.7,35.4 7.7,35.9 6.8,35.4 6.8,34.9 "
+         id="polygon68"
+         style="fill:#f05a24" />
+      <polygon
+         points="34.4,50.9 34.4,51.3 33.5,50.8 33.5,50.3 "
+         id="polygon70"
+         style="fill:#f05a24" />
+      <polygon
+         points="55.5,63 55.5,63.5 54.6,63 54.6,62.5 "
+         id="polygon72"
+         style="fill:#f05a24" />
+      <g
+         transform="translate(70,54)"
+         id="g74">
+        <polygon
+           points="2.2,17.7 8.1,17.3 2.2,20.7 "
+           id="polygon76"
+           style="fill:#262626" />
+        <g
+           transform="translate(2,16)"
+           id="g78">
+          <path
+             d="M 6.8,11.6 C 7,11.5 7.3,11.3 7.4,11 7.7,10.6 7.8,10 7.8,9.2 7.8,6.8 6.1,4 4.1,2.8 3.5,2.4 2.9,2.3 2.3,2.3 2,2.3 1.7,2.4 1.5,2.5 L 4.3,0.9 C 5,0.5 5.9,0.6 6.9,1.2 c 2,1.2 3.7,4 3.7,6.4 0,1.2 -0.4,2 -1.1,2.4 z"
+             id="path80"
+             inkscape:connector-curvature="0"
+             style="fill:#2a2a2a" />
+          <path
+             d="M 4.2,11.4 C 2.2,10.2 0.5,7.3 0.5,5 0.5,3.8 0.9,3 1.6,2.6 1.8,2.5 2.1,2.4 2.4,2.4 c 0.5,0 1.1,0.1 1.8,0.5 2,1.2 3.7,4 3.7,6.4 0,0.7 -0.2,1.3 -0.4,1.8 C 7.3,11.4 7.1,11.6 6.9,11.7 6.1,12 5.2,12 4.2,11.4 Z"
+             id="path82"
+             inkscape:connector-curvature="0"
+             style="fill:#3a3a3a" />
+          <path
+             d="M 2.1,5.9 C 2.1,4.6 3,4 4.2,4.7 5.4,5.4 6.3,7 6.3,8.3 6.3,9.6 5.4,10.2 4.2,9.5 3,8.8 2.1,7.2 2.1,5.9 Z"
+             id="path84"
+             inkscape:connector-curvature="0"
+             style="fill:#b2b2b2" />
+          <path
+             d="M 2.9,4.9 C 3.1,4.8 3.3,4.8 3.5,4.8 3.7,4.8 3.9,4.9 4.1,5 4.6,5.3 5.1,5.8 5.4,6.4 5.8,7 5.9,7.7 5.9,8.2 5.9,8.4 5.9,8.7 5.8,8.8 5.7,9 5.6,9.2 5.4,9.2 5.1,9.4 4.7,9.3 4.2,9.1 3.7,8.8 3.2,8.3 2.9,7.7 2.5,7.1 2.4,6.4 2.4,5.9 2.4,5.4 2.6,5.1 2.9,4.9 Z"
+             id="path86"
+             inkscape:connector-curvature="0"
+             style="fill:#818181" />
+          <path
+             d="m 3.5,4.8 c 0.2,0 0.4,0.1 0.6,0.2 0.5,0.3 1,0.8 1.3,1.4 0.4,0.6 0.5,1.3 0.5,1.8 0,0.2 0,0.5 -0.1,0.6 C 5.6,8.8 5.4,8.7 5.2,8.6 4.7,8.3 4.2,7.8 3.9,7.2 3.5,6.6 3.4,5.9 3.4,5.4 3.4,5.2 3.4,5 3.5,4.8 Z"
+             id="path88"
+             inkscape:connector-curvature="0"
+             style="fill:#989898" />
+          <g
+             transform="translate(3,5)"
+             id="g90">
+            <path
+               d="M 2.1,3 C 2.2,3 2.2,2.9 2.3,2.9 2.4,2.8 2.4,2.6 2.4,2.5 2.4,1.9 2,1.2 1.5,0.9 1.3,0.8 1.2,0.8 1.1,0.8 1,0.8 1,0.8 0.9,0.9 L 1.6,0.5 C 1.8,0.4 2,0.4 2.2,0.6 2.7,0.9 3.1,1.6 3.1,2.2 3.1,2.5 3,2.7 2.8,2.8 Z"
+               id="path92"
+               inkscape:connector-curvature="0"
+               style="fill:#2a2a2a" />
+            <path
+               d="M 1.5,2.9 C 1,2.6 0.6,1.9 0.6,1.3 0.6,1 0.7,0.8 0.9,0.7 1,0.7 1,0.6 1.1,0.6 c 0.1,0 0.3,0 0.4,0.1 0.5,0.3 0.9,1 0.9,1.6 0,0.2 0,0.3 -0.1,0.4 C 2.3,2.8 2.2,2.8 2.1,2.8 2,3.1 1.7,3.1 1.5,2.9 Z"
+               id="path94"
+               inkscape:connector-curvature="0"
+               style="fill:#3a3a3a" />
+            <path
+               d="m 1.1,1.2 c 0,0 0.1,0 0.1,0 0,0 0,0 0,0 0.1,0 0.2,0 0.3,0.1 0.3,0.2 0.6,0.6 0.6,1 0,0.1 0,0.2 -0.1,0.3 0,0 0,0 0,0 C 2,2.6 1.9,2.7 1.9,2.7 1.8,2.8 1.6,2.8 1.5,2.7 1.2,2.5 0.9,2.1 0.9,1.7 0.9,1.4 1,1.2 1.1,1.2 Z"
+               id="path96"
+               inkscape:connector-curvature="0"
+               style="fill:#545454" />
+            <path
+               d="m 1.2,1.1 c 0.1,0 0.2,0 0.3,0.1 0.3,0.2 0.6,0.6 0.6,1 0,0.1 0,0.2 -0.1,0.3 -0.1,0 -0.2,0 -0.2,-0.1 -0.3,-0.2 -0.6,-0.6 -0.6,-1 0,-0.1 0,-0.2 0,-0.3 z"
+               id="path98"
+               inkscape:connector-curvature="0"
+               style="fill:#6b6b6b" />
+          </g>
+        </g>
+        <path
+           d="m 3.3,18 c -0.7,0.5 -1.1,1.4 -1.1,2.7 v 0.1 L 1.8,21 c 0,0 0,0 0,-0.1 0,-0.1 0,-0.3 0,-0.4 0.1,-1.3 0.7,-2.2 1.5,-2.5 z"
+           id="path100"
+           inkscape:connector-curvature="0"
+           style="fill:#262626" />
+        <g
+           transform="translate(10,10)"
+           id="g102">
+          <path
+             d="m 10.7,16.6 c 0,0 -4.5,2.7 -10.2,1 v -1.8 c 0,0 7.5,-1.8 10.2,-1 z M 22.4,4.9 v 1.8 c 0,1.9 -2,4.3 -2,4.3 V 9.2 c 0,0 0.9,-1.1 1.5,-2.4 0.3,-0.6 0.5,-1.3 0.5,-1.9 z"
+             id="path104"
+             inkscape:connector-curvature="0"
+             style="fill:#faaf3b" />
+          <path
+             d="m 22.4,4.9 c 0,0.6 -0.2,1.3 -0.5,2 -0.6,1.3 -1.5,2.4 -1.5,2.4 L 10.6,15 c 0,0 -3.9,2.4 -9,1.3 -0.1,0 -0.2,0 -0.3,-0.1 0,0 0,0 0,0 C 1,16.1 0.7,16.1 0.4,16 c 0,0 0,-0.3 0,-0.3 0,-0.2 -0.1,-4.6 -0.1,-4.8 0,0 17.9,-11 19.2,-9.9 1.5,1.2 2.6,2.5 2.8,3.5 0.1,0 0.1,0.2 0.1,0.4 z"
+             id="path106"
+             inkscape:connector-curvature="0"
+             style="fill:#f6cd4a" />
+          <polygon
+             points="20.5,9.2 20.5,11 10.7,16.6 10.7,14.9 "
+             id="polygon108"
+             style="fill:#faaf3b" />
+        </g>
+        <g
+           transform="translate(2)"
+           id="g110">
+          <path
+             d="m 18.1,24.1 c 0,0 -4.1,2.5 -9.4,0.9 v -3 c 0,0 6.9,-1.7 9.4,-0.9 z"
+             id="path112"
+             inkscape:connector-curvature="0"
+             style="fill:#faaf3b" />
+          <path
+             d="m 29,11.7 c 0,0.6 -0.2,1.2 -0.5,1.8 -0.5,1.2 -1.3,2.2 -1.3,2.2 l -2.8,-5.9 -2,-4.2 c 2.8,1.1 6.3,3.8 6.6,5.6 -0.1,0.2 0,0.3 0,0.5 z"
+             id="path114"
+             inkscape:connector-curvature="0"
+             style="fill:#fbd14c" />
+          <path
+             d="m 29,11.7 v 3.2 c 0,1.8 -1.8,4 -1.8,4 v -3.2 c 0,0 0.8,-1 1.3,-2.2 0.3,-0.6 0.5,-1.2 0.5,-1.8 z"
+             id="path116"
+             inkscape:connector-curvature="0"
+             style="fill:#faaf3b" />
+          <polygon
+             points="27.2,13 27.2,18.9 18.1,24.1 18.1,18.2 "
+             id="polygon118"
+             style="fill:#faaf3b" />
+          <polygon
+             points="3.2,11.6 17.5,17.4 26.6,12.2 19.9,2 16.7,0.1 0,9.7 "
+             id="polygon120"
+             style="fill:#f6cd4a" />
+          <polygon
+             points="27.2,13 18.1,18.2 17.5,17.4 26.6,12.2 "
+             id="polygon122"
+             style="fill:#f6d363" />
+          <polygon
+             points="2,16.3 18.1,21.2 18.1,18.2 17.5,17.4 3.2,11.6 0,9.7 0,17.4 "
+             id="polygon124"
+             style="fill:#faaf3b" />
+          <path
+             d="m 18.1,21.2 c 0,0 -4.1,2.5 -9.4,0.9 0,0 -6.2,-6.4 -8.7,-4.7 l 2,-1.1 c 0,0 1.6,-0.6 4.1,0.1 2.7,0.8 12,4.8 12,4.8 z"
+             id="path126"
+             inkscape:connector-curvature="0"
+             style="fill:#f6cd4a" />
+        </g>
+        <path
+           d="m 10.4,25.9 c 0,0 0,-0.3 0,-0.3 -0.1,-2.7 -2,-5.9 -4.3,-7.2 -2.4,-1.4 -4.3,-0.3 -4.3,2.5 0,0 0,0 0,0.1 L 0.9,20.5 C 0.8,19.8 1.1,17.6 2.6,17 c 2.3,-1.1 5.9,1.5 7.7,5.5 0.5,1.2 0.9,2.4 0.9,3.7 C 11,26.1 10.7,26 10.4,25.9 Z"
+           id="path128"
+           inkscape:connector-curvature="0"
+           style="fill:#faaf3b" />
+        <path
+           d="m 12.1,25.9 -0.5,0.3 c -0.1,0 -0.2,0 -0.3,-0.1 0,0 0,0 0,0 C 11.2,24.8 10.9,23.6 10.4,22.4 8.8,18.7 5.1,15.6 2.5,17 c 0.2,-0.1 1,-0.6 1.5,-0.7 0.7,-0.2 1.7,-0.1 3,0.6 1.5,0.9 2.9,2.4 3.8,4.2 0.8,1.5 1.3,3.2 1.3,4.8 z"
+           id="path130"
+           inkscape:connector-curvature="0"
+           style="fill:#f6cd4a" />
+      </g>
+      <polygon
+         points="79.6,49.1 80,48.9 80,58.2 79.6,58.4 "
+         id="polygon132"
+         style="fill:#3e3e3e" />
+      <g
+         transform="translate(1)"
+         id="g134">
+        <path
+           d="M 88.9,40.8 C 88.4,40.5 87.8,40.6 87,41 l -13.9,8.1 c -0.9,0.5 -1.7,2 -2.2,3.1 -0.3,0.7 -0.5,1.3 -0.5,2 L 0.6,13.9 v 0 c 0,-0.2 0,-0.5 0.1,-0.7 L 1.1,12 v 0 C 1.6,10.9 2.4,9.5 3.3,8.9 L 17.2,0.8 c 0.7,-0.4 1.4,-0.5 1.9,-0.2 z"
+           id="path136"
+           inkscape:connector-curvature="0"
+           style="fill:#f6cd4a" />
+        <path
+           d="m 89,42.6 v 0 L 69.8,53.7 v 0 c 0,-0.6 0.2,-1.3 0.5,-2 0.5,-1.1 1.3,-2.5 2.2,-3.1 l 13.9,-8.1 c 0.7,-0.4 1.4,-0.5 1.9,-0.2 0.4,0.4 0.7,1.5 0.7,2.3 z"
+           id="path138"
+           inkscape:connector-curvature="0"
+           style="fill:#f6d363" />
+        <path
+           d="m 89.7,43 v 0 L 70.5,54.1 v 0 c 0,-0.6 0.2,-1.3 0.5,-2 0.2,-0.5 0.5,-1.1 0.9,-1.7 0.4,-0.6 0.8,-1.1 1.3,-1.4 l 2.6,-1.5 8.8,-5.1 2.6,-1.5 c 0.5,-0.3 0.9,-0.4 1.3,-0.4 0.2,0 0.4,0.1 0.6,0.2 0.3,0.4 0.6,1.4 0.6,2.3 z"
+           id="path140"
+           inkscape:connector-curvature="0"
+           style="fill:#faaf3b" />
+      </g>
+      <path
+         d="m 71.9,52.1 c -0.3,0.7 -0.5,1.3 -0.5,2 L 1.6,13.8 1.5,13.7 1.7,13 2.1,11.8 v 0 z"
+         id="path142"
+         inkscape:connector-curvature="0"
+         style="fill:#f6d363" />
+      <g
+         transform="translate(50,43)"
+         id="g144">
+        <path
+           d="M 7.6,5.2 V 14 c 0,0.1 -0.1,0.2 -0.2,0.1 L 0.8,10.3 C 0.7,10.2 0.6,10.1 0.6,9.9 V 1.1 C 0.6,1 0.7,0.9 0.8,1 L 7.4,4.8 C 7.5,4.9 7.6,5 7.6,5.2 Z"
+           id="path146"
+           inkscape:connector-curvature="0"
+           style="fill:#3e3e3e" />
+        <path
+           d="M 0.9,9.8 V 1.5 C 0.9,1.4 1,1.3 1.1,1.4 L 7.2,4.9 C 7.3,5 7.4,5.1 7.4,5.3 v 8.3 c 0,0.1 -0.1,0.2 -0.2,0.1 L 1.1,10.2 C 0.9,10.2 0.9,10 0.9,9.8 Z"
+           id="path148"
+           inkscape:connector-curvature="0"
+           style="fill:#6b6b6b" />
+        <polygon
+           points="0.6,5.3 7.6,9.3 7.6,9.9 0.6,5.8 "
+           id="polygon150"
+           style="fill:#faaf3b" />
+      </g>
+      <g
+         transform="translate(61,49)"
+         id="g152">
+        <path
+           d="m 7.8,5.6 v 20.2 c 0,0.1 -0.1,0.2 -0.2,0.1 L 0.2,21.6 C 0.1,21.5 0,21.4 0,21.2 V 1 C 0,0.9 0.1,0.8 0.2,0.9 l 7.4,4.3 c 0.1,0.1 0.2,0.3 0.2,0.4 z"
+           id="path154"
+           inkscape:connector-curvature="0"
+           style="fill:#3e3e3e" />
+        <path
+           d="M 0.3,19.1 V 1.5 C 0.3,1.4 0.4,1.3 0.5,1.4 l 6.9,4 c 0.1,0.1 0.2,0.2 0.2,0.4 v 17.6 c 0,0.1 -0.1,0.2 -0.2,0.1 l -6.9,-4 C 0.4,19.4 0.3,19.3 0.3,19.1 Z"
+           id="path156"
+           inkscape:connector-curvature="0"
+           style="fill:#6b6b6b" />
+      </g>
+      <g
+         transform="translate(42,39)"
+         id="g158">
+        <path
+           d="m 7.6,4.5 v 8.8 c 0,0.1 -0.1,0.2 -0.2,0.1 L 0.8,9.6 C 0.7,9.5 0.6,9.4 0.6,9.2 V 0.4 C 0.6,0.3 0.7,0.2 0.8,0.3 l 6.6,3.8 c 0.1,0.1 0.2,0.3 0.2,0.4 z"
+           id="path160"
+           inkscape:connector-curvature="0"
+           style="fill:#3e3e3e" />
+        <path
+           d="M 0.8,9.2 V 0.9 C 0.8,0.8 0.9,0.7 1,0.8 L 7.1,4.3 C 7.2,4.4 7.3,4.5 7.3,4.7 V 13 c 0,0.1 -0.1,0.2 -0.2,0.1 L 1,9.6 C 0.9,9.5 0.8,9.4 0.8,9.2 Z"
+           id="path162"
+           inkscape:connector-curvature="0"
+           style="fill:#6b6b6b" />
+        <polygon
+           points="0.6,4.7 7.6,8.7 7.6,9.2 0.6,5.2 "
+           id="polygon164"
+           style="fill:#faaf3b" />
+      </g>
+      <g
+         transform="translate(34,34)"
+         id="g166">
+        <path
+           d="m 7.6,4.9 v 8.8 c 0,0.1 -0.1,0.2 -0.2,0.1 L 0.8,10 C 0.7,9.9 0.6,9.8 0.6,9.6 V 0.8 C 0.6,0.7 0.7,0.6 0.8,0.7 l 6.6,3.8 c 0.1,0.1 0.2,0.3 0.2,0.4 z"
+           id="path168"
+           inkscape:connector-curvature="0"
+           style="fill:#3e3e3e" />
+        <path
+           d="M 0.8,9.6 V 1.3 C 0.8,1.2 0.9,1.1 1,1.2 l 6.1,3.5 c 0.1,0.1 0.2,0.2 0.2,0.4 v 8.3 c 0,0.1 -0.1,0.2 -0.2,0.1 L 1,10 C 0.9,9.9 0.8,9.7 0.8,9.6 Z"
+           id="path170"
+           inkscape:connector-curvature="0"
+           style="fill:#6b6b6b" />
+        <polygon
+           points="0.6,5 7.6,9 7.6,9.6 0.6,5.6 "
+           id="polygon172"
+           style="fill:#faaf3b" />
+      </g>
+      <g
+         transform="translate(26,30)"
+         id="g174">
+        <path
+           d="m 7.6,4.3 v 8.8 c 0,0.1 -0.1,0.2 -0.2,0.1 L 0.8,9.4 C 0.7,9.3 0.6,9.2 0.6,9 V 0.2 C 0.6,0.1 0.7,0 0.8,0.1 L 7.4,3.9 C 7.5,4 7.6,4.1 7.6,4.3 Z"
+           id="path176"
+           inkscape:connector-curvature="0"
+           style="fill:#3e3e3e" />
+        <path
+           d="M 0.8,9 V 0.7 C 0.8,0.6 0.9,0.5 1,0.6 l 6.1,3.5 c 0.1,0.1 0.2,0.2 0.2,0.4 v 8.3 c 0,0.1 -0.1,0.2 -0.2,0.1 L 1,9.4 C 0.9,9.3 0.8,9.1 0.8,9 Z"
+           id="path178"
+           inkscape:connector-curvature="0"
+           style="fill:#6b6b6b" />
+        <polygon
+           points="0.6,4.4 7.6,8.4 7.6,9 0.6,5 "
+           id="polygon180"
+           style="fill:#faaf3b" />
+      </g>
+      <g
+         transform="translate(18,25)"
+         id="g182">
+        <path
+           d="m 7.5,4.7 v 8.8 c 0,0.1 -0.1,0.2 -0.2,0.1 L 0.7,9.8 C 0.6,9.7 0.5,9.6 0.5,9.4 V 0.6 C 0.5,0.5 0.6,0.4 0.7,0.5 l 6.6,3.8 c 0.2,0.1 0.2,0.2 0.2,0.4 z"
+           id="path184"
+           inkscape:connector-curvature="0"
+           style="fill:#3e3e3e" />
+        <path
+           d="M 0.8,9.3 V 1 C 0.8,0.9 0.9,0.8 1,0.9 l 6.1,3.5 c 0.1,0.1 0.2,0.2 0.2,0.4 v 8.3 c 0,0.1 -0.1,0.2 -0.2,0.1 L 1,9.7 C 0.9,9.7 0.8,9.5 0.8,9.3 Z"
+           id="path186"
+           inkscape:connector-curvature="0"
+           style="fill:#6b6b6b" />
+        <polygon
+           points="0.6,4.8 7.5,8.8 7.5,9.3 0.6,5.3 "
+           id="polygon188"
+           style="fill:#faaf3b" />
+      </g>
+      <g
+         transform="translate(10,20)"
+         id="g190">
+        <path
+           d="m 7.5,5 v 8.8 c 0,0.1 -0.1,0.2 -0.2,0.1 L 0.7,10.1 C 0.6,10 0.5,9.9 0.5,9.7 V 1 C 0.5,0.9 0.6,0.8 0.7,0.9 l 6.6,3.8 c 0.1,0 0.2,0.2 0.2,0.3 z"
+           id="path192"
+           inkscape:connector-curvature="0"
+           style="fill:#3e3e3e" />
+        <path
+           d="M 0.8,9.7 V 1.4 C 0.8,1.3 0.9,1.2 1,1.3 L 7.1,4.8 C 7.2,4.9 7.3,5 7.3,5.2 v 8.3 c 0,0.1 -0.1,0.2 -0.2,0.1 L 1,10.1 C 0.9,10 0.8,9.9 0.8,9.7 Z"
+           id="path194"
+           inkscape:connector-curvature="0"
+           style="fill:#6b6b6b" />
+        <polygon
+           points="0.6,5.2 7.5,9.2 7.5,9.7 0.6,5.7 "
+           id="polygon196"
+           style="fill:#faaf3b" />
+      </g>
+      <g
+         transform="translate(2,16)"
+         id="g198">
+        <path
+           d="m 7.5,4.4 v 8.8 c 0,0.1 -0.1,0.2 -0.2,0.1 L 0.7,9.5 C 0.6,9.4 0.5,9.3 0.5,9.1 V 0.3 C 0.5,0.2 0.6,0.1 0.7,0.2 L 7.3,4 c 0.1,0.1 0.2,0.3 0.2,0.4 z"
+           id="path200"
+           inkscape:connector-curvature="0"
+           style="fill:#3e3e3e" />
+        <path
+           d="M 0.8,9.1 V 0.8 C 0.8,0.7 0.9,0.6 1,0.7 l 6.1,3.5 c 0.1,0.1 0.2,0.2 0.2,0.4 v 8.3 C 7.3,13 7.2,13.1 7.1,13 L 1,9.5 C 0.9,9.4 0.8,9.2 0.8,9.1 Z"
+           id="path202"
+           inkscape:connector-curvature="0"
+           style="fill:#6b6b6b" />
+        <polygon
+           points="0.6,4.5 7.5,8.5 7.5,9.1 0.6,5.1 "
+           id="polygon204"
+           style="fill:#faaf3b" />
+      </g>
+      <polygon
+         points="65.3,52.5 64.9,52.3 64.9,71.3 65.3,71.6 "
+         id="polygon206"
+         style="fill:#3e3e3e" />
+      <polygon
+         points="68.7,63.9 68.7,63.6 61.1,59.2 61.1,59.5 "
+         id="polygon208"
+         style="fill:#3e3e3e" />
+      <g
+         transform="translate(78,44)"
+         id="g210"
+         style="fill:#f05a24">
+        <polygon
+           points="1.8,2.1 1.8,2.6 0.8,3.2 0.8,2.7 "
+           id="polygon212" />
+        <polygon
+           points="3.6,1.1 3.6,1.6 2.5,2.2 2.5,1.7 "
+           id="polygon214" />
+        <polygon
+           points="5.3,0.1 5.3,0.6 4.3,1.2 4.3,0.7 "
+           id="polygon216" />
+      </g>
+      <g
+         transform="translate(72,40)"
+         id="g218">
+        <path
+           d="M 4.6,7.6 V 9.4 C 4.6,9.7 4.4,10 4.2,10.1 L 1.1,11.9 C 0.9,12 0.7,11.9 0.7,11.7 V 11.5 C 0.7,10.8 1,10 1.5,9.5 1.7,9.4 1.8,9.2 2,9.1 Z M 17.3,1.7 V 2 c 0,0.3 -0.2,0.6 -0.4,0.7 l -3.1,1.8 c -0.2,0.1 -0.4,0 -0.4,-0.2 L 13.4,2.5 16,1 c 0,0 0,0 0,0 0.6,-0.3 1.3,0.1 1.3,0.7 z"
+           id="path220"
+           inkscape:connector-curvature="0"
+           style="fill:#3e3e3e" />
+        <g
+           transform="translate(1,8)"
+           id="g222">
+          <path
+             d="M 3,1.1 C 3,1.4 2.8,1.8 2.5,2 2.2,2.2 2,2 2,1.7 2,1.4 2.2,1 2.5,0.8 2.8,0.6 3,0.8 3,1.1 Z"
+             id="path224"
+             inkscape:connector-curvature="0"
+             style="fill:#fbed20" />
+          <path
+             d="M 1.4,2 C 1.4,2.3 1.2,2.7 0.9,2.9 0.6,3.1 0.4,2.9 0.4,2.6 0.4,2.3 0.6,1.9 0.9,1.7 1.2,1.5 1.4,1.6 1.4,2 Z"
+             id="path226"
+             inkscape:connector-curvature="0"
+             style="fill:#f05a24" />
+        </g>
+        <g
+           transform="translate(14,1)"
+           id="g228">
+          <path
+             d="M 0.1,2.2 C 0.1,2.5 0.3,2.7 0.6,2.5 0.9,2.3 1.1,1.9 1.1,1.6 1.1,1.3 0.9,1.1 0.6,1.3 0.3,1.5 0.1,1.9 0.1,2.2 Z"
+             id="path230"
+             inkscape:connector-curvature="0"
+             style="fill:#fbed20" />
+          <path
+             d="M 1.6,1.4 C 1.6,1.7 1.8,1.9 2.1,1.7 2.4,1.5 2.6,1.1 2.6,0.8 2.6,0.5 2.4,0.3 2.1,0.5 1.9,0.6 1.6,1 1.6,1.4 Z"
+             id="path232"
+             inkscape:connector-curvature="0"
+             style="fill:#f05a24" />
+        </g>
+      </g>
+      <g
+         transform="translate(77,44)"
+         id="g234"
+         style="fill:#3e3e3e">
+        <path
+           d="M 0.2,5.9 0.4,5.8 C 0.4,5.9 0.4,5.9 0.5,6 0.6,6.1 0.8,5.9 0.8,5.7 0.8,5.6 0.8,5.6 0.7,5.6 0.6,5.6 0.5,5.7 0.4,5.6 0.3,5.6 0.3,5.5 0.3,5.4 0.3,4.9 0.9,4.5 0.9,5.1 L 0.7,5.2 C 0.7,5.1 0.6,5 0.5,5.1 0.4,5.2 0.3,5.3 0.4,5.4 c 0,0 0.1,0 0.2,0 0.2,0 0.3,0 0.3,0.3 C 0.9,6.2 0.5,6.5 0.3,6.3 0.3,6.1 0.2,6 0.2,5.9 Z M 1.6,5 H 1.8 C 1.7,5.7 1.1,6 1.1,5.2 1.1,4.3 1.7,3.9 1.8,4.5 L 1.6,4.7 c 0,-0.3 -0.4,-0.1 -0.4,0.5 0,0.2 0,0.3 0.1,0.3 0,0 0.2,0 0.3,-0.5 z"
+           id="path236"
+           inkscape:connector-curvature="0" />
+        <polygon
+           points="2.1,5.3 1.9,5.4 1.9,4 2.1,3.9 2.1,4.4 2.4,4.2 2.4,3.7 2.6,3.6 2.6,5 2.4,5.1 2.4,4.5 2.1,4.7 "
+           id="polygon238" />
+        <path
+           d="M 3.1,3.3 C 3.6,3 3.6,3.9 3.4,4.3 3.3,4.5 3.2,4.6 3.1,4.7 2.5,5 2.6,3.6 3.1,3.3 Z M 2.9,4.4 C 3,4.5 3.2,4.4 3.2,4.2 3.3,3.9 3.3,3.3 3,3.5 2.8,3.7 2.8,4.3 2.9,4.4 Z"
+           id="path240"
+           inkscape:connector-curvature="0" />
+        <path
+           d="M 4,2.8 C 4.6,2.5 4.5,3.9 4,4.2 3.5,4.5 3.5,3.1 4,2.8 Z M 4,3.9 C 4.3,3.7 4.3,2.8 4,3 3.7,3.2 3.7,4.1 4,3.9 Z"
+           id="path242"
+           inkscape:connector-curvature="0" />
+        <polygon
+           points="5.2,3.5 4.6,3.8 4.6,2.5 4.8,2.4 4.8,3.5 5.2,3.3 "
+           id="polygon244" />
+        <path
+           d="M 5.6,1.9 C 5.7,1.9 6,1.7 6.1,1.6 6.3,1.5 6.3,2 6.2,2.2 6.4,2.2 6.4,2.5 6.3,2.6 6.2,2.9 6.1,3 5.6,3.2 Z M 5.7,2 V 2.3 C 5.9,2.2 6,2.2 6,2 6.1,1.8 5.9,1.9 5.7,2 Z m 0,0.6 V 3 C 5.7,3 5.9,2.9 6,2.8 6.1,2.7 6.1,2.5 6,2.5 6,2.4 5.8,2.5 5.7,2.6 Z"
+           id="path246"
+           inkscape:connector-curvature="0" />
+        <path
+           d="M 6.4,1.4 6.6,1.3 c 0,0.1 0,0.9 0,1 0,0.1 0.1,0.1 0.2,0.1 C 7,2.3 7,2.1 7,1.9 V 1.2 L 7.2,1.1 C 7.2,2 7.3,2.4 6.9,2.7 6.3,2.8 6.4,2.4 6.4,1.4 Z"
+           id="path248"
+           inkscape:connector-curvature="0" />
+        <path
+           d="M 7.2,1.9 7.4,1.8 C 7.4,1.9 7.5,2 7.6,2 7.7,1.9 7.8,1.8 7.8,1.7 7.8,1.6 7.7,1.6 7.6,1.6 7.4,1.6 7.3,1.6 7.3,1.3 7.3,0.8 7.9,0.4 7.9,1 L 7.7,1.1 C 7.7,1 7.6,0.9 7.5,1 7.4,1.1 7.3,1.2 7.4,1.3 c 0,0 0.1,0 0.2,0 0.1,0 0.2,0 0.3,0.1 0,0.1 0.1,0.2 0,0.4 C 7.8,2 7.8,2.1 7.6,2.2 7.5,2.3 7.4,2.3 7.4,2.2 7.2,2.1 7.2,2 7.2,1.9 Z"
+           id="path250"
+           inkscape:connector-curvature="0" />
+      </g>
+      <g
+         transform="translate(53,29)"
+         id="g252">
+        <polygon
+           points="16.1,5.5 8.3,10 0.4,5.5 0.4,5.2 8.3,1 16.1,5.2 "
+           id="polygon254"
+           style="fill:#ddb234" />
+        <polygon
+           points="16.1,5.2 8.3,9.8 0.4,5.2 8.3,0.7 "
+           id="polygon256"
+           style="fill:#ffe98d" />
+      </g>
+      <g
+         transform="translate(26,14)"
+         id="g258">
+        <polygon
+           points="16.4,5.1 8.6,9.6 0.7,5.1 0.7,4.8 8.6,0.6 16.4,4.8 "
+           id="polygon260"
+           style="fill:#ddb234" />
+        <polygon
+           points="16.4,4.8 8.6,9.4 0.7,4.8 8.6,0.3 "
+           id="polygon262"
+           style="fill:#ffe98d" />
+      </g>
+      <g
+         transform="translate(91,68)"
+         id="g264"
+         style="fill:#3e3e3e">
+        <polygon
+           points="0.3,4.5 0.3,4.9 7,1 7,0.7 "
+           id="polygon266" />
+        <polygon
+           points="0.3,5.3 0.3,5.6 7,1.8 7,1.4 "
+           id="polygon268" />
+        <polygon
+           points="0.3,6 0.3,6.4 7,2.5 7,2.2 "
+           id="polygon270" />
+        <polygon
+           points="0.3,6.8 0.3,7.1 7,3.3 7,2.9 "
+           id="polygon272" />
+        <polygon
+           points="0.3,7.5 0.3,7.8 7,4 7,3.7 "
+           id="polygon274" />
+      </g>
+      <polygon
+         points="2.3,26.8 58.8,59.5 58.8,60.4 2.3,27.7 "
+         id="polygon276"
+         style="fill:#3e3e3e" />
+      <polygon
+         points="2.3,31.6 2.3,30.8 20.3,41.2 20.3,42 "
+         id="polygon278"
+         style="fill:#3e3e3e" />
+      <polygon
+         points="31.5,47.6 58.8,63.4 58.8,64.3 31.5,48.5 "
+         id="polygon280"
+         style="fill:#3e3e3e" />
+      <g
+         transform="translate(38,49)"
+         id="g282"
+         style="fill:#3e3e3e">
+        <path
+           d="M 0.6,1.5 0.7,1.6 C 0.7,2.2 1.4,2.3 1.2,1.9 1.1,1.6 0.6,1.5 0.6,1 0.6,0.4 1.3,0.8 1.3,1.4 L 1.2,1.3 C 1.2,1.1 1.1,1 1,0.9 0.8,0.8 0.8,0.9 0.8,1 c 0,0.3 0.4,0.4 0.6,0.8 0,0.1 0.1,0.3 0,0.4 C 1.3,2.4 1,2.3 0.9,2.1 0.6,1.9 0.6,1.7 0.6,1.5 Z M 2.2,2.4 2.3,2.5 C 2.2,3.2 1.5,2.7 1.5,1.7 1.5,0.8 2.2,1.1 2.3,1.8 H 2.2 C 2.1,1.2 1.6,1 1.6,1.8 c 0,0.8 0.5,1.1 0.6,0.6 z"
+           id="path284"
+           inkscape:connector-curvature="0" />
+        <polygon
+           points="2.6,3.2 2.5,3.1 2.5,1.6 2.6,1.7 2.6,2.3 3.1,2.6 3.1,2 3.2,2.1 3.2,3.6 3.1,3.5 3.1,2.8 2.6,2.5 "
+           id="polygon286" />
+        <path
+           d="m 3.8,2.3 c 0.6,0.3 0.6,2 0,1.6 -0.6,-0.4 -0.6,-2 0,-1.6 z m 0,1.4 c 0.4,0.3 0.4,-1 0,-1.2 -0.4,-0.3 -0.4,1 0,1.2 z"
+           id="path288"
+           inkscape:connector-curvature="0" />
+        <path
+           d="m 4.9,2.9 c 0.6,0.3 0.6,2 0,1.6 -0.6,-0.4 -0.6,-2 0,-1.6 z m 0,1.4 C 5.3,4.5 5.3,3.6 5.1,3.2 5,3 4.8,2.9 4.7,3 4.5,3.3 4.5,4.1 4.9,4.3 Z"
+           id="path290"
+           inkscape:connector-curvature="0" />
+        <polygon
+           points="6.1,5.3 5.5,4.8 5.5,3.3 5.6,3.4 5.6,4.8 6.1,5.1 "
+           id="polygon292" />
+        <path
+           d="M 6.6,5.4 V 3.9 C 6.9,4.1 7.3,4.2 7.3,4.7 7.3,4.8 7.3,4.9 7.2,5 7.3,5.1 7.4,5.3 7.4,5.5 7.3,5.9 7,5.7 6.6,5.4 Z M 6.7,4.6 C 6.9,4.7 7.1,4.9 7.1,4.6 7.1,4.3 6.9,4.3 6.7,4.1 Z m 0,0.7 C 6.7,5.3 7,5.5 7,5.5 7.2,5.6 7.2,5.2 7,5 6.9,4.9 6.7,4.8 6.6,4.8 v 0.5 z"
+           id="path294"
+           inkscape:connector-curvature="0" />
+        <path
+           d="M 8.1,4.8 8.2,4.9 C 8.2,5.8 8.3,6.5 7.8,6.3 7.3,6 7.4,5.5 7.4,4.5 L 7.5,4.6 C 7.5,5.5 7.4,5.9 7.7,6.1 8.1,6.2 8.1,5.8 8.1,4.8 Z M 8.4,6 8.5,6.1 C 8.5,6.6 9,6.8 9,6.5 9,6.2 8.7,6.1 8.5,5.8 8.3,5.5 8.3,4.9 8.7,5.2 8.9,5.3 9.1,5.6 9.1,5.9 L 9,5.8 C 9,5.6 8.9,5.5 8.8,5.4 8.6,5.3 8.6,5.4 8.6,5.5 8.6,5.8 9,5.9 9.2,6.3 9.3,6.6 9.2,7 8.9,6.8 8.5,6.6 8.4,6.3 8.4,6 Z"
+           id="path296"
+           inkscape:connector-curvature="0" />
+      </g>
+      <polygon
+         points="90.1,75.9 90.1,77.3 88.1,78.4 88.1,77.1 "
+         id="polygon298"
+         style="fill:#ffffff" />
+      <polygon
+         points="88.1,77.1 88.1,78.4 86.1,78.8 86.1,77.5 "
+         id="polygon300"
+         style="fill:#f05a24" />
+      <polygon
+         points="100.2,69.3 100.2,70.6 99.2,71.8 99.2,70.5 "
+         id="polygon302"
+         style="fill:#ffffff" />
+      <polygon
+         points="100.7,68.3 100.7,69.7 100.2,70.6 100.2,69.3 "
+         id="polygon304"
+         style="fill:#f05a24" />
+      <g
+         transform="translate(0,31)"
+         id="g306">
+        <polygon
+           points="1.5,0.7 1.1,0.5 1.5,0.3 "
+           id="polygon308"
+           style="fill:#6b6b6b" />
+        <path
+           d="M 0.7,0.7 V 3 L 3.2,4.4 V 2.1 c 0,0 -1.7,-1 -1.8,-1 z"
+           id="path310"
+           inkscape:connector-curvature="0"
+           style="fill:#4e4e4e" />
+        <polygon
+           points="3.2,2.1 0.7,0.7 1.1,0.5 3.5,1.9 "
+           id="polygon312"
+           style="fill:#6b6b6b" />
+        <polygon
+           points="3.2,4.5 3.2,2.1 3.5,1.9 3.5,4.3 "
+           id="polygon314"
+           style="fill:#373737" />
+      </g>
+      <g
+         transform="translate(69,54)"
+         id="g316">
+        <path
+           d="M 1.4,9.7 0.3,9 0.2,8.8 0.3,8.7 1.4,9.4 C 2.3,9.9 3,9.5 3,8.5 V 4.7 C 3,3.7 2.3,2.4 1.4,1.9 L 0.3,1.2 0.2,1 0.3,0.9 1.4,1.6 c 1,0.6 1.9,2 1.9,3.2 v 3.8 c 0,1.2 -0.9,1.7 -1.9,1.1 z"
+           id="path318"
+           inkscape:connector-curvature="0"
+           style="fill:#f6cd4a" />
+        <path
+           d="M 1.3,9.7 0.2,9 V 8.7 L 1.3,9.4 C 2.2,9.9 2.9,9.5 2.9,8.5 V 4.7 C 2.9,3.7 2.2,2.4 1.3,1.9 L 0.2,1.2 V 1 l 1.1,0.7 c 1,0.6 1.9,2 1.9,3.2 v 3.8 c -0.1,1.2 -0.9,1.6 -1.9,1 z"
+           id="path320"
+           inkscape:connector-curvature="0"
+           style="fill:#faaf3b" />
+      </g>
+      <g
+         transform="translate(70,57)"
+         id="g322">
+        <g
+           transform="translate(0,4)"
+           id="g324">
+          <polygon
+             points="2.1,0.2 2.1,2.8 0.8,3.5 0.8,0.9 "
+             id="polygon326"
+             style="fill:#545454" />
+          <polygon
+             points="0.8,0.9 2.1,0.2 1.8,0.1 0.6,0.8 "
+             id="polygon328"
+             style="fill:#6b6b6b" />
+          <polygon
+             points="0.8,0.9 0.8,3.5 0.6,3.3 0.6,0.8 "
+             id="polygon330"
+             style="fill:#3e3e3e" />
+        </g>
+        <polygon
+           points="2.1,0.8 2.1,3.4 0.8,4.1 0.8,1.5 "
+           id="polygon332"
+           style="fill:#545454" />
+        <polygon
+           points="0.8,1.5 2.1,0.8 1.8,0.7 0.6,1.4 "
+           id="polygon334"
+           style="fill:#6b6b6b" />
+        <polygon
+           points="0.8,1.5 0.8,4.1 0.6,3.9 0.6,1.4 "
+           id="polygon336"
+           style="fill:#3e3e3e" />
+      </g>
+      <g
+         transform="translate(49,54)"
+         id="g338">
+        <polygon
+           points="3.2,6.8 1.4,5.7 0,3.5 0,1.4 1.4,0.6 3.2,1.7 4.5,3.9 4.5,6 "
+           id="polygon340"
+           style="fill:#ffffff" />
+        <polygon
+           points="4.3,3.9 3.1,1.8 1.4,0.8 0.2,1.5 0.2,3.5 1.4,5.6 3.1,6.6 4.3,5.9 "
+           id="polygon342"
+           style="fill:#ec1c24" />
+        <g
+           transform="translate(0,2)"
+           id="g344"
+           style="fill:#ffffff">
+          <path
+             d="M 0.7,0.9 0.9,1 C 0.9,1.1 1,1.2 1.1,1.3 1.3,1.4 1.3,1.2 1.2,1.1 1,0.9 0.8,0.8 0.8,0.5 c 0,-0.4 0.6,0 0.6,0.4 L 1.2,0.8 C 1.2,0.7 1.1,0.6 1,0.6 0.9,0.6 0.9,0.5 0.9,0.6 0.9,0.7 1,0.8 1.1,0.8 1.3,0.9 1.4,1.1 1.4,1.3 1.4,1.7 0.8,1.4 0.7,0.9 Z"
+             id="path346"
+             inkscape:connector-curvature="0" />
+          <polygon
+             points="1.9,2 1.8,1.8 1.8,1 1.5,0.9 1.5,0.7 2.2,1.1 2.2,1.3 1.9,1.2 "
+             id="polygon348" />
+          <path
+             d="m 2.7,1.4 c 0.6,0.3 0.6,1.3 0,1 C 2.6,2.3 2.5,2.2 2.4,2.1 2.2,1.8 2.2,1.1 2.7,1.4 Z M 2.5,2 C 2.6,2.3 2.9,2.3 2.9,2 2.9,1.6 2.6,1.4 2.5,1.5 2.4,1.6 2.4,1.9 2.5,2 Z"
+             id="path350"
+             inkscape:connector-curvature="0" />
+          <path
+             d="m 3.2,2.7 v -1 C 3.6,1.9 3.8,2 3.8,2.4 3.8,2.5 3.8,2.6 3.7,2.6 3.6,2.6 3.4,2.5 3.3,2.4 V 2.8 Z M 3.4,1.9 V 2.2 C 3.5,2.3 3.7,2.4 3.7,2.2 3.7,2.1 3.5,2 3.4,1.9 Z"
+             id="path352"
+             inkscape:connector-curvature="0" />
+        </g>
+      </g>
+    </g>
+    <g
+       transform="translate(0,19)"
+       id="g354">
+      <g
+         transform="translate(60,25)"
+         id="g356">
+        <polygon
+           points="76,72.1 76,26.8 31,0.4 31,45.8 "
+           id="polygon358"
+           style="fill:#ee9c3c" />
+        <polygon
+           points="114.2,3.9 76,25.9 76,72.1 114.3,50.3 "
+           id="polygon360"
+           style="fill:#ffcd76" />
+        <polygon
+           points="110.6,7.1 80.7,24.2 80.7,67.1 110.6,50.4 "
+           id="polygon362"
+           style="fill:#ffb55f" />
+        <polygon
+           points="76,72.1 76,69.7 114.9,48 114.9,50.1 "
+           id="polygon364"
+           style="fill:#ffffff" />
+        <path
+           d="M 76,69.7 61.9,61.5 c 0,0.8 -0.1,2.2 -0.1,2.3 L 76,72.1 Z"
+           id="path366"
+           inkscape:connector-curvature="0"
+           style="fill:#cbd4d5" />
+        <path
+           d="m 31,43.5 v 2.3 l 31,18.1 c 0.1,0 0,-2.4 0,-2.4 z"
+           id="path368"
+           inkscape:connector-curvature="0"
+           style="fill:#a9a9a9" />
+        <polygon
+           points="76,26.8 76,24.4 115.3,1.5 115.3,4.3 "
+           id="polygon370"
+           style="fill:#ffffff" />
+        <polygon
+           points="49.6,8.4 44.3,10.8 76,28.8 76,23 "
+           id="polygon372"
+           style="fill:#ec952e" />
+        <path
+           d="M 3.6,34.1 0.3,36 2.8,37.5 3.4,37.2 C 3.5,36.1 3.7,35 3.6,34.1 Z"
+           id="path374"
+           inkscape:connector-curvature="0"
+           style="fill:#b4a8a0" />
+        <path
+           d="m 3.6,34.1 c 0.1,1 -0.1,2 -0.2,3.1 L 44.6,14 c -0.1,-1 -0.2,-2.1 -0.3,-3.1 z"
+           id="path376"
+           inkscape:connector-curvature="0"
+           style="fill:#988c84" />
+        <path
+           d="m 49.6,8.4 -0.5,-0.3 -4.8,2.7 c 0.1,1 0.2,2.1 0.3,3.1 l 5.2,-3 C 49.7,10.1 49.7,9.2 49.6,8.4 Z"
+           id="path378"
+           inkscape:connector-curvature="0"
+           style="fill:#b4a8a0" />
+        <path
+           d="M 76,26.8 V 24.4 L 49.6,8.4 c 0.1,0.9 0.1,1.7 0.2,2.6 v 0 z"
+           id="path380"
+           inkscape:connector-curvature="0"
+           style="fill:#cbc2bb" />
+        <g
+           transform="translate(82,14)"
+           id="g382">
+          <g
+             transform="translate(0,30)"
+             id="g384">
+            <path
+               d="M 1.7,4.4 V 5.1 C 1.8,4.8 1.9,4.5 1.9,4.2 Z"
+               id="path386"
+               inkscape:connector-curvature="0"
+               style="fill:#6ec7dc" />
+            <path
+               d="M 1.9,4.3 C 1.8,4.6 1.7,4.9 1.7,5.2 V 15.9 L 2.8,15.3 C 4.3,10.7 5.7,6.1 7,1.4 Z"
+               id="path388"
+               inkscape:connector-curvature="0"
+               style="fill:#73dbec" />
+            <path
+               d="M 2.8,15.2 7.3,12.5 V 1.1 L 7,1.3 C 5.7,6 4.3,10.6 2.8,15.2 Z"
+               id="path390"
+               inkscape:connector-curvature="0"
+               style="fill:#6ec7dc" />
+            <polygon
+               points="1.2,4.1 7.8,0.2 7.4,0.1 0.9,3.9 0.9,16.4 1.2,16.7 "
+               id="polygon392"
+               style="fill:#cbc2bb" />
+            <path
+               d="M 7.1,1.8 V 5.2 L 2,8 V 4.8 Z M 1.2,4.1 V 16.7 L 7.8,13.2 V 0.2 Z M 1.9,15.3 V 8.8 L 7,5.9 v 6.7 z"
+               id="path394"
+               inkscape:connector-curvature="0"
+               style="fill:#ffffff" />
+          </g>
+          <g
+             transform="translate(19,19)"
+             id="g396">
+            <path
+               d="M 1.5,4.4 V 15.9 L 2.3,15.5 C 3.7,11 4.9,6.5 5.9,1.9 Z"
+               id="path398"
+               inkscape:connector-curvature="0"
+               style="fill:#73dbec" />
+            <path
+               d="M 7,1.1 5.8,1.8 C 4.8,6.4 3.6,10.9 2.2,15.4 L 7,12.5 Z"
+               id="path400"
+               inkscape:connector-curvature="0"
+               style="fill:#6ec7dc" />
+            <polygon
+               points="1,4.2 7.5,0.3 7.2,0.1 0.7,4 0.7,16.4 1,16.8 "
+               id="polygon402"
+               style="fill:#cbc2bb" />
+            <path
+               d="M 6.9,1.8 V 5.2 L 1.8,8 V 4.8 Z M 1,4.1 V 16.7 L 7.6,13.2 V 0.2 Z M 1.7,15.3 V 8.8 L 6.8,5.9 v 6.7 z"
+               id="path404"
+               inkscape:connector-curvature="0"
+               style="fill:#ffffff" />
+          </g>
+          <g
+             transform="translate(0,11)"
+             id="g406">
+            <path
+               d="M 1.5,15.7 4,14.2 C 4.9,10 5.6,5.7 6.2,1.4 L 1.5,4.2 Z"
+               id="path408"
+               inkscape:connector-curvature="0"
+               style="fill:#73dbec" />
+            <path
+               d="M 7.1,12.4 V 1 L 6.3,1.5 C 5.7,5.8 5,10 4.1,14.3 Z"
+               id="path410"
+               inkscape:connector-curvature="0"
+               style="fill:#6ec7dc" />
+            <polygon
+               points="1.1,4 7.6,0.1 7.2,0 0.8,3.8 0.8,16.2 1.1,16.6 "
+               id="polygon412"
+               style="fill:#cbc2bb" />
+            <path
+               d="M 6.9,1.6 V 5 L 1.8,7.8 V 4.6 Z M 1,3.9 V 16.5 L 7.6,13 V 0 Z M 1.8,15.1 V 8.6 L 6.9,5.7 v 6.7 z"
+               id="path414"
+               inkscape:connector-curvature="0"
+               style="fill:#ffffff" />
+          </g>
+          <g
+             transform="translate(19)"
+             id="g416">
+            <path
+               d="M 1.3,4.3 V 15.8 L 3.1,14.7 C 4.3,10.4 5.2,6.1 5.7,1.7 Z"
+               id="path418"
+               inkscape:connector-curvature="0"
+               style="fill:#73dbec" />
+            <path
+               d="M 6.9,1 5.7,1.7 c -0.5,4.4 -1.4,8.7 -2.6,13 l 3.8,-2.3 z"
+               id="path420"
+               inkscape:connector-curvature="0"
+               style="fill:#6ec7dc" />
+            <polygon
+               points="0.8,4 7.4,0.1 7,0 0.5,3.8 0.5,16.3 0.8,16.6 "
+               id="polygon422"
+               style="fill:#cbc2bb" />
+            <path
+               d="M 6.7,1.7 V 5.1 L 1.6,7.9 V 4.7 Z M 0.8,4 V 16.6 L 7.4,13.1 V 0.1 Z M 1.6,15.1 V 8.6 L 6.7,5.7 v 6.7 z"
+               id="path424"
+               inkscape:connector-curvature="0"
+               style="fill:#ffffff" />
+          </g>
+        </g>
+      </g>
+      <polygon
+         points="85.7,117.2 119.9,97.1 119.9,85.3 122,86.5 122.1,50.4 125,45.1 109.8,35.9 62.8,62.5 62.8,114.6 73.1,108.2 "
+         id="polygon426"
+         style="fill:#e97f2f" />
+      <polygon
+         points="46.4,146.9 46.4,100.5 1.7,75.4 1.6,120.7 "
+         id="polygon428"
+         style="fill:#ee9a35" />
+      <polygon
+         points="84.9,122.2 85.1,77.1 46.4,100.2 46.4,146.9 84.9,124.9 "
+         id="polygon430"
+         style="fill:#ffcd76" />
+      <polygon
+         points="1.6,74.4 1.7,77.3 46.4,103.5 46.4,99.2 "
+         id="polygon432"
+         style="fill:#ec952e" />
+      <polygon
+         points="46.4,146.9 46.4,144.5 85.5,122.5 85.5,124.8 "
+         id="polygon434"
+         style="fill:#ffffff" />
+      <polygon
+         points="1.3,120.5 1.3,118.2 46.4,144.5 46.4,146.9 "
+         id="polygon436"
+         style="fill:#cbc2bb" />
+      <g
+         transform="translate(32,119)"
+         id="g438">
+        <path
+           d="m 1.3,1.4 v 10 C 3,9.1 4.5,6.6 5.4,3.9 Z"
+           id="path440"
+           inkscape:connector-curvature="0"
+           style="fill:#3b8098" />
+        <path
+           d="M 5.4,3.8 C 4.4,6.5 3,9 1.3,11.3 v 1.5 l 5.6,3.3 V 4.6 Z"
+           id="path442"
+           inkscape:connector-curvature="0"
+           style="fill:#4aa3bb" />
+        <polygon
+           points="7.4,4.4 0.8,0.5 1.2,0.4 7.6,4.2 7.6,16.6 7.4,17 "
+           id="polygon444"
+           style="fill:#cbc2bb" />
+        <path
+           d="M 6.6,5.1 V 8.3 L 1.5,5.5 V 2 Z M 0.8,0.5 v 13 L 7.4,17 V 4.4 Z M 1.5,12.9 V 6.2 l 5.1,2.9 v 6.5 z"
+           id="path446"
+           inkscape:connector-curvature="0"
+           style="fill:#ffffff" />
+      </g>
+      <g
+         transform="translate(6,103)"
+         id="g448">
+        <path
+           d="m 0.7,1.9 v 9.3 C 2.2,9 3.7,6.8 5,4.4 Z"
+           id="path450"
+           inkscape:connector-curvature="0"
+           style="fill:#3b8098" />
+        <path
+           d="M 5,4.5 C 3.7,6.8 2.3,9.1 0.7,11.3 v 2.1 l 5.6,3.3 V 5.2 Z"
+           id="path452"
+           inkscape:connector-curvature="0"
+           style="fill:#4aa3bb" />
+        <polygon
+           points="6.8,4.9 0.2,1.1 0.6,0.9 7,4.8 7,17.2 6.8,17.6 "
+           id="polygon454"
+           style="fill:#cbc2bb" />
+        <path
+           d="M 6,5.6 V 8.8 L 0.9,6 V 2.6 Z M 0.2,1.1 v 13 l 6.6,3.5 V 5 Z M 0.9,13.4 V 6.7 L 6,9.6 v 6.5 z"
+           id="path456"
+           inkscape:connector-curvature="0"
+           style="fill:#ffffff" />
+      </g>
+      <polygon
+         points="80.5,82.1 50.5,99.2 50.5,142.1 80.5,125.4 "
+         id="polygon458"
+         style="fill:#ffb55f" />
+      <polygon
+         points="85.7,66.1 67.6,56.6 67.6,64.3 85.7,75.3 "
+         id="polygon460"
+         style="fill:#df6919" />
+      <g
+         transform="translate(52,88)"
+         id="g462">
+        <g
+           transform="translate(0,30)"
+           id="g464">
+          <path
+             d="M 6.9,1.9 1.3,5.2 V 16.7 L 2.5,16 C 4.6,11.5 6.1,6.8 6.9,2 Z"
+             id="path466"
+             inkscape:connector-curvature="0"
+             style="fill:#73dbec" />
+          <path
+             d="M 6.9,2.1 C 6.1,6.9 4.6,11.6 2.5,16.1 L 6.9,13.5 Z"
+             id="path468"
+             inkscape:connector-curvature="0"
+             style="fill:#6ec7dc" />
+          <polygon
+             points="0.8,5 7.4,1.1 7,0.9 0.5,4.8 0.5,17.2 0.8,17.6 "
+             id="polygon470"
+             style="fill:#cbc2bb" />
+          <path
+             d="M 6.7,2.6 V 6 L 1.6,8.8 V 5.6 Z M 0.8,4.9 V 17.5 L 7.4,14 V 1 Z M 1.6,16.1 V 9.6 L 6.7,6.7 v 6.7 z"
+             id="path472"
+             inkscape:connector-curvature="0"
+             style="fill:#ffffff" />
+        </g>
+        <g
+           transform="translate(19,20)"
+           id="g474">
+          <path
+             d="M 1.2,15.7 6.7,12.4 V 1 L 6.2,1.3 c -1.1,4.9 -2.8,9.8 -5,14.4 z"
+             id="path476"
+             inkscape:connector-curvature="0"
+             style="fill:#6ec7dc" />
+          <path
+             d="M 1.1,4.3 V 15.8 H 1.2 C 3.4,11.1 5.1,6.3 6.2,1.4 Z"
+             id="path478"
+             inkscape:connector-curvature="0"
+             style="fill:#73dbec" />
+          <polygon
+             points="0.6,4 7.2,0.1 6.8,0 0.3,3.8 0.3,16.3 0.6,16.6 "
+             id="polygon480"
+             style="fill:#cbc2bb" />
+          <path
+             d="M 6.5,1.7 V 5.1 L 1.4,7.9 V 4.7 Z M 0.6,4 V 16.6 L 7.2,13.1 V 0.1 Z M 1.4,15.1 V 8.6 L 6.5,5.7 v 6.7 z"
+             id="path482"
+             inkscape:connector-curvature="0"
+             style="fill:#ffffff" />
+        </g>
+        <g
+           transform="translate(0,11)"
+           id="g484">
+          <path
+             d="m 1.2,5.1 v 9.4 c 2,-3.9 3.3,-8 4.6,-12.2 z"
+             id="path486"
+             inkscape:connector-curvature="0"
+             style="fill:#73dbec" />
+          <path
+             d="M 5.8,2.4 C 4.5,6.5 3.1,10.7 1.2,14.6 v 2 L 6.8,13.3 V 1.9 Z"
+             id="path488"
+             inkscape:connector-curvature="0"
+             style="fill:#6ec7dc" />
+          <polygon
+             points="0.7,4.8 7.3,0.9 6.9,0.8 0.4,4.6 0.4,17.1 0.7,17.4 "
+             id="polygon490"
+             style="fill:#cbc2bb" />
+          <path
+             d="M 6.6,2.5 V 5.9 L 1.5,8.7 V 5.5 Z M 0.7,4.8 V 17.4 L 7.3,13.9 V 0.9 Z M 1.4,16 V 9.5 L 6.5,6.6 v 6.7 z"
+             id="path492"
+             inkscape:connector-curvature="0"
+             style="fill:#ffffff" />
+        </g>
+        <g
+           transform="translate(19)"
+           id="g494">
+          <path
+             d="m 1,5.1 v 9.2 C 3,10.4 4.6,6.4 5.8,2.2 Z"
+             id="path496"
+             inkscape:connector-curvature="0"
+             style="fill:#73dbec" />
+          <path
+             d="m 1,14.4 v 2.2 L 6.6,13.3 V 1.9 L 5.8,2.4 C 4.6,6.5 2.9,10.5 1,14.4 Z"
+             id="path498"
+             inkscape:connector-curvature="0"
+             style="fill:#6ec7dc" />
+          <polygon
+             points="0.5,4.8 7,1 6.7,0.8 0.2,4.7 0.2,17.1 0.5,17.5 "
+             id="polygon500"
+             style="fill:#cbc2bb" />
+          <path
+             d="M 6.4,2.5 V 5.9 L 1.3,8.7 V 5.5 Z M 0.5,4.8 V 17.4 L 7.1,13.9 V 0.9 Z M 1.2,16 V 9.5 L 6.3,6.6 v 6.7 z"
+             id="path502"
+             inkscape:connector-curvature="0"
+             style="fill:#ffffff" />
+        </g>
+      </g>
+      <g
+         transform="translate(32,99)"
+         id="g504">
+        <path
+           d="m 1.3,1.5 v 8.8 C 2.8,8.2 4.2,6.1 5.6,4.1 Z"
+           id="path506"
+           inkscape:connector-curvature="0"
+           style="fill:#3b8098" />
+        <path
+           d="M 5.6,4 C 4.2,6.1 2.8,8.2 1.3,10.2 v 2.7 l 5.6,3.3 V 4.7 Z"
+           id="path508"
+           inkscape:connector-curvature="0"
+           style="fill:#4aa3bb" />
+        <polygon
+           points="7.3,4.5 0.8,0.6 1.2,0.5 7.6,4.3 7.6,16.8 7.3,17.1 "
+           id="polygon510"
+           style="fill:#cbc2bb" />
+        <path
+           d="M 6.6,5.2 V 8.4 L 1.5,5.6 V 2.2 Z M 0.8,0.6 v 13 l 6.6,3.5 V 4.5 Z M 1.5,13 V 6.3 l 5.1,2.9 v 6.5 z"
+           id="path512"
+           inkscape:connector-curvature="0"
+           style="fill:#ffffff" />
+      </g>
+      <g
+         transform="translate(6,84)"
+         id="g514">
+        <polygon
+           points="6.9,4.2 0.3,0.3 0.7,0.2 7.2,4 7.2,16.5 6.9,16.8 "
+           id="polygon516"
+           style="fill:#cbc2bb" />
+        <path
+           d="m 0.8,1.2 v 9.3 C 2,8.1 3.2,5.7 4.6,3.5 Z"
+           id="path518"
+           inkscape:connector-curvature="0"
+           style="fill:#3b8098" />
+        <path
+           d="m 0.8,10.4 v 2.2 l 5.6,3.3 V 4.4 L 4.6,3.4 C 3.2,5.7 2,8.1 0.8,10.4 Z"
+           id="path520"
+           inkscape:connector-curvature="0"
+           style="fill:#4aa3bb" />
+        <path
+           d="M 6.1,4.9 V 8.1 L 1,5.3 V 1.9 Z M 0.3,0.3 v 13 l 6.6,3.5 V 4.2 Z M 1,12.7 V 6 l 5.1,2.9 v 6.5 z"
+           id="path522"
+           inkscape:connector-curvature="0"
+           style="fill:#ffffff" />
+      </g>
+      <polygon
+         points="92.6,22.2 1.3,72.9 46.4,99.2 85.6,76.3 78.4,72.1 60.3,60.9 109.8,33.5 136,49.4 175.3,26.5 131.2,0.6 "
+         id="polygon524"
+         style="fill:#e7edee" />
+      <polygon
+         points="102.4,34.6 59.7,58.1 63.3,59.3 106.5,35.3 "
+         id="polygon526"
+         style="fill:#9f928a" />
+      <path
+         d="M 46,96.2 68.6,83 C 52.4,81.7 36.1,81.1 19.9,80.9 Z"
+         id="path528"
+         inkscape:connector-curvature="0"
+         style="fill:#fb5249" />
+      <path
+         d="M 80.5,76.1 54.6,60.9 68.6,53.2 C 59.9,53.1 49.9,53.7 41.2,53.6 L 6.4,73.1 19.9,81 l 48.7,2.1 9.5,-5.5 z"
+         id="path530"
+         inkscape:connector-curvature="0"
+         style="fill:#fb3e35" />
+      <path
+         d="m 167.2,28.1 3,-1.8 -21.7,-12.7 c -10.1,0.1 -20.2,0.3 -30.5,1.3 -2.7,0.2 -5.3,0.4 -8,0.6 L 86.9,28.3 c 26.9,1.1 53.5,0.4 80.3,-0.2 z"
+         id="path532"
+         inkscape:connector-curvature="0"
+         style="fill:#fb5249" />
+      <path
+         d="M 86.9,28.3 41.7,53.4 v 0 l -0.5,0.3 c 8.7,0.1 17.4,0.2 26.1,0.3 l 41.8,-23 26.6,15.5 31.5,-18.4 c -26.8,0.6 -53.4,1.3 -80.3,0.2 z M 110,15.5 c 2.7,-0.2 28.3,-1.8 38.5,-1.9 l -17,-10 z"
+         id="path534"
+         inkscape:connector-curvature="0"
+         style="fill:#fb3e35" />
+      <path
+         d="M 80.5,76.1 54.6,60.9 c 0,0.7 0,2.1 0,2.1 l 24.2,14.1 z"
+         id="path536"
+         inkscape:connector-curvature="0"
+         style="fill:#9f928a" />
+      <polygon
+         points="64.8,40.6 6.4,73.1 7.8,74 64.7,42.5 "
+         id="polygon538"
+         style="fill:#9f928a" />
+      <path
+         d="m 64.8,40.6 -0.1,2 14.9,-8.2 C 79.5,33.8 79.4,33.1 79.4,32.5 74.8,35 64.8,40.6 64.8,40.6 Z"
+         id="path540"
+         inkscape:connector-curvature="0"
+         style="fill:#90837d" />
+      <path
+         d="m 131.4,3.6 v 0 c 0,0 -24.9,13.7 -33.3,18.4 -4.7,2.6 -11.3,6.3 -18.8,10.5 0,0.6 0.1,1.3 0.2,1.9 L 131.4,5.7 c 0,-0.7 0,-1.4 0,-2.1 z"
+         id="path542"
+         inkscape:connector-curvature="0"
+         style="fill:#9f928a" />
+      <path
+         d="m 131.4,3.6 c 0,0.7 0,1.4 0,2.1 h 0.1 l 37,21.7 1.7,-1 z"
+         id="path544"
+         inkscape:connector-curvature="0"
+         style="fill:#928179" />
+      <polygon
+         points="102.4,34.6 57.9,59.1 64.7,42.5 79.5,34.3 "
+         id="polygon546"
+         style="fill:#c01f1f" />
+      <polygon
+         points="7.8,74 9.2,74.8 131.6,6.9 167.2,28.1 168.5,27.3 131.5,5.6 "
+         id="polygon548"
+         style="fill:#c01f1f" />
+      <polygon
+         points="99,42.6 82.4,30.8 66.7,56.3 82.4,66.3 "
+         id="polygon550"
+         style="fill:#ff503e" />
+      <polygon
+         points="106,35.2 122.1,45.3 99,42.6 82.4,30.8 "
+         id="polygon552"
+         style="fill:#d0332f" />
+      <polygon
+         points="82.4,66.3 82.5,69.9 99.9,45.3 122.1,47.7 122.1,45.3 99,42.6 "
+         id="polygon554"
+         style="fill:#ffffff" />
+      <polygon
+         points="1.6,118.4 1.6,118 1.3,118.2 "
+         id="polygon556"
+         style="fill:#b1a59d" />
+      <polygon
+         points="84.9,122.1 85.5,122.5 84.9,122.9 "
+         id="polygon558"
+         style="fill:#d5d5d5" />
+      <polygon
+         points="174.3,72.6 174.9,73 174.3,73.3 "
+         id="polygon560"
+         style="fill:#d5d5d5" />
+      <polygon
+         points="46.4,101.6 46.4,103.5 85.1,81.2 85.1,79.4 "
+         id="polygon562"
+         style="fill:#f6a946" />
+      <polygon
+         points="136,51.8 136,53.7 174.2,31.7 174.3,29.9 "
+         id="polygon564"
+         style="fill:#f6a946" />
+      <polygon
+         points="85.7,66.3 100.2,45.9 120.1,47.7 119.8,98.3 85.7,117.2 "
+         id="polygon566"
+         style="fill:#ffcd76" />
+      <polygon
+         points="85.6,65.6 85.7,69.2 101,47.7 120.1,49.5 120.1,47.5 99.9,45.3 "
+         id="polygon568"
+         style="fill:#f6a946" />
+      <g
+         transform="translate(89,97)"
+         id="g570">
+        <polygon
+           points="10,24.1 37.9,8.5 37.9,6.4 10,22.1 "
+           id="polygon572"
+           style="fill:#ffffff" />
+        <polygon
+           points="10,22.1 0.2,16.2 0.2,18.2 10,24.1 "
+           id="polygon574"
+           style="fill:#9f948d" />
+        <polygon
+           points="0.2,16.2 28.2,0.8 37.9,6.4 10,22.2 "
+           id="polygon576"
+           style="fill:#d2d0ce" />
+      </g>
+      <polygon
+         points="108.8,92.3 100.4,97.4 100.1,107.5 108.3,103 "
+         id="polygon578"
+         style="fill:#3b9eae" />
+      <polygon
+         points="97.7,108.6 109.7,101.9 118.8,108 107.3,114.4 "
+         id="polygon580"
+         style="fill:#9f948d" />
+      <polygon
+         points="114.7,86.5 114.2,100.8 121,104.8 100.4,116.4 92.5,111.4 91,100.4 "
+         id="polygon582"
+         style="fill:#d7d7d7" />
+      <path
+         d="m 112.2,98.1 v 3 c 0,0.5 0.6,1 1.4,1 0.8,0 1.4,-0.4 1.4,-1 v -4.5 c -1,0.5 -1.8,1.1 -2.8,1.5 z"
+         id="path584"
+         inkscape:connector-curvature="0"
+         style="fill:#dadada" />
+      <path
+         d="m 115,89.4 h -2.8 v 8.8 c 0.2,0 1.8,-0.2 2.8,-0.7 z"
+         id="path586"
+         inkscape:connector-curvature="0"
+         style="fill:#d0d0d0" />
+      <g
+         transform="translate(91,55)"
+         id="g588">
+        <g
+           transform="translate(1)"
+           id="g590">
+          <path
+             d="M 0.5,13.2 V 31.8 C 3.7,24.4 5.9,16.6 7.9,8.8 Z"
+             id="path592"
+             inkscape:connector-curvature="0"
+             style="fill:#6ec7dc" />
+          <path
+             d="m 7.9,8.8 c -2,7.9 -4.2,15.6 -7.4,23 v 8.6 L 9.6,35.3 C 14,24.6 17.2,13.3 19.3,2 Z"
+             id="path594"
+             inkscape:connector-curvature="0"
+             style="fill:#74e5f8" />
+          <path
+             d="M 19.3,1.9 C 17.2,13.2 14,24.5 9.6,35.2 l 11.6,-6.5 v -28 z"
+             id="path596"
+             inkscape:connector-curvature="0"
+             style="fill:#6ec7dc" />
+          <path
+             d="M 0.2,41 V 13 L 0.4,12.9 21.7,0.1 V 29 Z M 0.9,13.5 v 26.3 l 20,-11.2 V 1.5 Z"
+             id="path598"
+             inkscape:connector-curvature="0"
+             style="fill:#ffffff" />
+        </g>
+        <rect
+           width="1"
+           height="27.6"
+           x="5.3000002"
+           y="10.5"
+           id="rect600"
+           style="fill:#ffffff" />
+        <rect
+           width="1"
+           height="27.6"
+           x="17.9"
+           y="3.4000001"
+           id="rect602"
+           style="fill:#ffffff" />
+        <rect
+           width="1"
+           height="27.6"
+           x="12.1"
+           y="6.6999998"
+           id="rect604"
+           style="fill:#ffffff" />
+        <polygon
+           points="1.4,30 22.4,18.1 22.4,17 1.4,28.8 "
+           id="polygon606"
+           style="fill:#ffffff" />
+        <polygon
+           points="1.2,13.2 1.2,41 0.6,40.7 0.8,12.9 21.9,0 22.6,0.1 "
+           id="polygon608"
+           style="fill:#cbc2bb" />
+      </g>
+      <g
+         transform="translate(100,52)"
+         id="g610">
+        <path
+           d="M 4.5,3.8 C 4.3,5.5 3.1,6.7 1.9,6.6 0.7,6.4 -0.1,4.9 0.2,3.2 0.4,1.5 1.6,0.3 2.8,0.4 4,0.6 4.8,2.1 4.5,3.8 Z"
+           id="path612"
+           inkscape:connector-curvature="0"
+           style="fill:#cbc2bb" />
+        <path
+           d="M 5,3.9 C 4.8,5.6 3.6,6.8 2.4,6.7 1.2,6.5 0.4,5 0.7,3.3 0.9,1.6 2.1,0.4 3.3,0.5 4.5,0.7 5.3,2.2 5,3.9 Z"
+           id="path614"
+           inkscape:connector-curvature="0"
+           style="fill:#ffffff" />
+        <path
+           d="m 2.7,4.1 c 0,0 0,0 0,0 C 2.6,4 2.6,4 2.6,3.9 V 1.3 C 2.6,1.2 2.7,1.1 2.8,1.1 2.9,1.1 3,1.2 3,1.3 V 3.7 L 4.4,3.1 c 0.1,0 0.2,0 0.2,0.1 0,0.1 0,0.2 -0.1,0.2 L 2.7,4.1 c 0.1,0 0.1,0 0,0 z"
+           id="path616"
+           inkscape:connector-curvature="0"
+           style="fill:#cbd4d5" />
+      </g>
+      <polygon
+         points="54.6,63 53.3,63.4 78,77.5 78.8,77.1 "
+         id="polygon618"
+         style="fill:#ec2f26" />
+      <polygon
+         points="82.4,66.3 66.7,56.3 67,60.2 82.5,69.9 "
+         id="polygon620"
+         style="fill:#cbc2bb" />
+      <g
+         transform="translate(90,84)"
+         id="g622">
+        <g
+           transform="translate(8,18)"
+           id="g624">
+          <path
+             d="m 3.7,1.6 v 11.8 c 0,0.5 -0.6,1 -1.4,1 -0.8,0 -1.4,-0.4 -1.4,-1 V 1.6 Z"
+             id="path626"
+             inkscape:connector-curvature="0"
+             style="fill:#ffffff" />
+          <path
+             d="M 3.7,0.1 V 3.7 C 3.7,4 3.1,4.2 2.3,4.2 1.5,4.2 0.9,4 0.9,3.7 V 0.1 c 1,0.1 1.9,0.1 2.8,0 z"
+             id="path628"
+             inkscape:connector-curvature="0"
+             style="fill:#dcdcdc" />
+        </g>
+        <g
+           transform="translate(2,6)"
+           id="g630">
+          <g
+             transform="translate(0,9)"
+             id="g632">
+            <path
+               d="m 3.1,0.9 v 11.8 c 0,0.5 -0.6,1 -1.4,1 -0.8,0 -1.4,-0.4 -1.4,-1 V 0.9 Z"
+               id="path634"
+               inkscape:connector-curvature="0"
+               style="fill:#e9e9e9" />
+            <path
+               d="M 3.1,0 V 3.6 C 3.1,3.9 2.5,4.1 1.7,4.1 0.9,4.1 0.3,3.9 0.3,3.6 V 0 c 1,0 1.9,0 2.8,0 z"
+               id="path636"
+               inkscape:connector-curvature="0"
+               style="fill:#b4b4bb" />
+          </g>
+          <path
+             d="m 27,2.9 v 11.6 c 0,0.5 0.6,1 1.4,1 0.8,0 1.4,-0.4 1.4,-1 V 2.7 Z"
+             id="path638"
+             inkscape:connector-curvature="0"
+             style="fill:#ffffff" />
+          <path
+             d="M 27,0.6 V 4.7 C 27.9,5 29.8,4.6 29.8,4.2 V 0.6 Z"
+             id="path640"
+             inkscape:connector-curvature="0"
+             style="fill:#dcdcdc" />
+        </g>
+        <polygon
+           points="8.4,21.6 33.5,7.5 33.5,4.5 8.4,18.6 "
+           id="polygon642"
+           style="fill:#ffffff" />
+        <polygon
+           points="0.8,14.3 26,0.2 33.5,4.5 8.4,18.6 "
+           id="polygon644"
+           style="fill:#ff503e" />
+        <polygon
+           points="8.4,18.6 0.8,14.3 0.8,17.2 8.4,21.6 "
+           id="polygon646"
+           style="fill:#b6a9a0" />
+      </g>
+      <g
+         transform="translate(19,111)"
+         id="g648">
+        <path
+           d="m 1,1.8 v 10 C 2.7,9.5 4.2,7 5.1,4.3 Z"
+           id="path650"
+           inkscape:connector-curvature="0"
+           style="fill:#3b8098" />
+        <path
+           d="M 5.1,4.2 C 4.1,6.9 2.7,9.4 1,11.7 v 1.5 l 5.6,3.3 V 5 Z"
+           id="path652"
+           inkscape:connector-curvature="0"
+           style="fill:#4aa3bb" />
+        <polygon
+           points="7,4.8 0.5,0.9 0.9,0.8 7.3,4.6 7.3,17 7,17.4 "
+           id="polygon654"
+           style="fill:#cbc2bb" />
+        <path
+           d="M 6.3,5.4 V 8.6 L 1.2,5.8 V 2.4 Z M 0.5,0.9 v 13 l 6.6,3.5 V 4.8 Z M 1.1,13.2 V 6.5 l 5.1,2.9 v 6.5 z"
+           id="path656"
+           inkscape:connector-curvature="0"
+           style="fill:#ffffff" />
+      </g>
+      <g
+         transform="translate(19,91)"
+         id="g658">
+        <path
+           d="m 1,1.9 v 8.8 C 2.5,8.6 3.9,6.5 5.3,4.5 Z"
+           id="path660"
+           inkscape:connector-curvature="0"
+           style="fill:#3b8098" />
+        <path
+           d="M 5.2,4.4 C 3.8,6.5 2.4,8.6 0.9,10.6 v 2.7 l 5.6,3.3 V 5.1 Z"
+           id="path662"
+           inkscape:connector-curvature="0"
+           style="fill:#4aa3bb" />
+        <polygon
+           points="7,4.9 0.5,1 0.9,0.9 7.3,4.7 7.3,17.2 7,17.5 "
+           id="polygon664"
+           style="fill:#cbc2bb" />
+        <path
+           d="M 6.3,5.6 V 8.8 L 1.2,6 V 2.6 Z M 0.5,1 v 13 l 6.6,3.5 V 4.9 Z M 1.1,13.4 V 6.7 l 5.1,2.9 v 6.5 z"
+           id="path666"
+           inkscape:connector-curvature="0"
+           style="fill:#ffffff" />
+      </g>
+      <g
+         transform="translate(1,72)"
+         id="g668">
+        <polygon
+           points="45.4,29.6 45.4,27.2 84.6,4.3 84.6,7.2 "
+           id="polygon670"
+           style="fill:#ffffff" />
+        <polygon
+           points="0.3,3.2 0.3,0.9 45.4,27.2 45.4,29.6 "
+           id="polygon672"
+           style="fill:#cbc2bb" />
+      </g>
+    </g>
+    <g
+       transform="translate(52,118)"
+       id="g674">
+      <polygon
+         points="14.5,36.6 0.3,44.5 12.9,51.7 26.8,43.7 "
+         id="polygon676"
+         style="fill:#e7e8e9" />
+      <polygon
+         points="26.5,0.9 27.2,1.3 12.9,19.9 12.2,19.5 12.2,9.1 "
+         id="polygon678"
+         style="fill:#cfd1c6" />
+      <g
+         transform="translate(12,1)"
+         id="g680">
+        <polygon
+           points="15.2,0.3 15.2,10.7 0.9,18.9 0.9,8.5 "
+           id="polygon682"
+           style="fill:#ffffff" />
+        <polygon
+           points="15.2,0.3 15.2,1.2 0.9,9.4 0.9,8.5 "
+           id="polygon684"
+           style="fill:#c60048" />
+        <polygon
+           points="15.2,1.9 15.2,2.8 0.9,11 0.9,10.1 "
+           id="polygon686"
+           style="fill:#c60048" />
+        <polygon
+           points="15.2,3.5 15.2,4.4 0.9,12.6 0.9,11.7 "
+           id="polygon688"
+           style="fill:#c60048" />
+        <polygon
+           points="15.2,5 15.2,5.9 0.9,14.2 0.9,13.3 "
+           id="polygon690"
+           style="fill:#c60048" />
+        <polygon
+           points="15.2,6.6 15.2,7.5 0.9,15.8 0.9,14.9 "
+           id="polygon692"
+           style="fill:#c60048" />
+        <polygon
+           points="15.2,8.2 15.2,9.1 0.9,17.3 0.9,16.4 "
+           id="polygon694"
+           style="fill:#c60048" />
+        <polygon
+           points="15.2,9.8 15.2,10.7 0.9,18.9 0.9,18 "
+           id="polygon696"
+           style="fill:#c60048" />
+        <polygon
+           points="7.2,4.9 7.2,10.5 0.9,14.2 0.9,8.5 "
+           id="polygon698"
+           style="fill:#05417d" />
+        <g
+           transform="translate(0,5)"
+           id="g700"
+           style="fill:#ffffff">
+          <polygon
+             points="1.5,3.7 1.6,3.8 1.4,3.8 1.2,4 1.3,3.8 1.1,3.7 1.3,3.6 1.4,3.4 1.5,3.5 1.7,3.4 "
+             id="polygon702" />
+          <polygon
+             points="2.6,3 2.6,3.2 2.5,3.2 2.3,3.4 2.3,3.2 2.2,3.1 2.4,3 2.5,2.7 2.6,2.9 2.7,2.8 "
+             id="polygon704" />
+          <polygon
+             points="3.7,2.4 3.7,2.6 3.5,2.6 3.4,2.8 3.4,2.6 3.3,2.5 3.5,2.4 3.5,2.1 3.6,2.3 3.8,2.2 "
+             id="polygon706" />
+          <polygon
+             points="4.7,1.8 4.8,2 4.6,2 4.5,2.2 4.5,2 4.4,1.9 4.5,1.7 4.6,1.5 4.7,1.7 4.9,1.6 "
+             id="polygon708" />
+          <polygon
+             points="5.8,1.2 5.8,1.4 5.7,1.4 5.5,1.6 5.6,1.3 5.4,1.3 5.6,1.1 5.7,0.9 5.8,1 5.9,1 "
+             id="polygon710" />
+          <polygon
+             points="6.9,0.6 6.9,0.8 6.8,0.8 6.6,1 6.6,0.7 6.5,0.7 6.7,0.5 6.8,0.3 6.8,0.4 7,0.3 "
+             id="polygon712" />
+          <polygon
+             points="2.1,4 2.1,4.2 1.9,4.2 1.8,4.4 1.8,4.1 1.7,4.1 1.9,3.9 1.9,3.7 2,3.8 2.2,3.8 "
+             id="polygon714" />
+          <polygon
+             points="3.1,3.4 3.2,3.6 3,3.6 2.9,3.7 2.9,3.5 2.8,3.4 2.9,3.3 3,3.1 3.1,3.2 3.3,3.1 "
+             id="polygon716" />
+          <polygon
+             points="4.2,2.7 4.2,2.9 4.1,2.9 3.9,3.1 4,2.9 3.8,2.8 4,2.7 4.1,2.5 4.2,2.6 4.3,2.5 "
+             id="polygon718" />
+          <polygon
+             points="5.3,2.1 5.3,2.3 5.2,2.3 5,2.5 5,2.3 4.9,2.2 5.1,2.1 5.2,1.8 5.2,2 5.4,1.9 "
+             id="polygon720" />
+          <polygon
+             points="6.4,1.5 6.4,1.7 6.2,1.7 6.1,1.9 6.1,1.7 6,1.6 6.1,1.5 6.2,1.2 6.3,1.4 6.5,1.3 "
+             id="polygon722" />
+          <polygon
+             points="1.5,4.9 1.6,5.1 1.4,5.1 1.2,5.2 1.3,5 1.1,4.9 1.3,4.8 1.4,4.6 1.5,4.7 1.7,4.6 "
+             id="polygon724" />
+          <polygon
+             points="2.6,4.3 2.6,4.4 2.5,4.4 2.3,4.6 2.3,4.4 2.2,4.3 2.4,4.2 2.5,4 2.6,4.1 2.7,4 "
+             id="polygon726" />
+          <polygon
+             points="3.7,3.6 3.7,3.8 3.5,3.8 3.4,4 3.4,3.8 3.3,3.7 3.5,3.6 3.5,3.3 3.6,3.5 3.8,3.4 "
+             id="polygon728" />
+          <polygon
+             points="4.7,3 4.8,3.2 4.6,3.2 4.5,3.4 4.5,3.2 4.4,3.1 4.5,3 4.6,2.7 4.7,2.9 4.9,2.8 "
+             id="polygon730" />
+          <polygon
+             points="5.8,2.4 5.8,2.6 5.7,2.6 5.5,2.8 5.6,2.6 5.4,2.5 5.6,2.3 5.7,2.1 5.8,2.3 5.9,2.2 "
+             id="polygon732" />
+          <polygon
+             points="6.9,1.8 6.9,2 6.8,2 6.6,2.2 6.6,1.9 6.5,1.9 6.7,1.7 6.8,1.5 6.8,1.6 7,1.6 "
+             id="polygon734" />
+          <polygon
+             points="2.1,5.2 2.1,5.4 1.9,5.4 1.8,5.6 1.8,5.3 1.7,5.3 1.9,5.1 1.9,4.9 2,5 2.2,5 "
+             id="polygon736" />
+          <polygon
+             points="3.1,4.6 3.2,4.8 3,4.8 2.9,5 2.9,4.7 2.8,4.7 2.9,4.5 3,4.3 3.1,4.4 3.3,4.4 "
+             id="polygon738" />
+          <polygon
+             points="4.2,4 4.2,4.2 4.1,4.1 3.9,4.3 4,4.1 3.8,4 4,3.9 4.1,3.7 4.2,3.8 4.3,3.7 "
+             id="polygon740" />
+          <polygon
+             points="5.3,3.3 5.3,3.5 5.2,3.5 5,3.7 5,3.5 4.9,3.4 5.1,3.3 5.2,3 5.2,3.2 5.4,3.1 "
+             id="polygon742" />
+          <polygon
+             points="6.4,2.7 6.4,2.9 6.2,2.9 6.1,3.1 6.1,2.9 6,2.8 6.1,2.7 6.2,2.4 6.3,2.6 6.5,2.5 "
+             id="polygon744" />
+          <polygon
+             points="1.5,6.1 1.6,6.3 1.4,6.3 1.2,6.5 1.3,6.2 1.1,6.2 1.3,6 1.4,5.8 1.5,5.9 1.7,5.9 "
+             id="polygon746" />
+          <polygon
+             points="2.6,5.5 2.6,5.7 2.5,5.6 2.3,5.8 2.3,5.6 2.2,5.5 2.4,5.4 2.5,5.2 2.6,5.3 2.7,5.2 "
+             id="polygon748" />
+          <polygon
+             points="3.7,4.8 3.7,5 3.5,5 3.4,5.2 3.4,5 3.3,4.9 3.5,4.8 3.5,4.6 3.6,4.7 3.8,4.6 "
+             id="polygon750" />
+          <polygon
+             points="4.7,4.2 4.8,4.4 4.6,4.4 4.5,4.6 4.5,4.4 4.4,4.3 4.5,4.2 4.6,3.9 4.7,4.1 4.9,4 "
+             id="polygon752" />
+          <polygon
+             points="5.8,3.6 5.8,3.8 5.7,3.8 5.5,4 5.6,3.8 5.4,3.7 5.6,3.6 5.7,3.3 5.8,3.5 5.9,3.4 "
+             id="polygon754" />
+          <polygon
+             points="6.9,3 6.9,3.2 6.8,3.2 6.6,3.4 6.6,3.1 6.5,3.1 6.7,2.9 6.8,2.7 6.8,2.8 7,2.8 "
+             id="polygon756" />
+          <polygon
+             points="2.1,6.4 2.1,6.6 1.9,6.6 1.8,6.8 1.8,6.6 1.7,6.5 1.9,6.3 1.9,6.1 2,6.3 2.2,6.2 "
+             id="polygon758" />
+          <polygon
+             points="3.1,5.8 3.2,6 3,6 2.9,6.2 2.9,5.9 2.8,5.9 2.9,5.7 3,5.5 3.1,5.6 3.3,5.6 "
+             id="polygon760" />
+          <polygon
+             points="4.2,5.2 4.2,5.4 4.1,5.4 3.9,5.5 4,5.3 3.8,5.3 4,5.1 4.1,4.9 4.2,5 4.3,4.9 "
+             id="polygon762" />
+          <polygon
+             points="5.3,4.6 5.3,4.7 5.2,4.7 5,4.9 5,4.7 4.9,4.6 5.1,4.5 5.2,4.3 5.2,4.4 5.4,4.3 "
+             id="polygon764" />
+          <polygon
+             points="6.4,3.9 6.4,4.1 6.2,4.1 6.1,4.3 6.1,4.1 6,4 6.1,3.9 6.2,3.6 6.3,3.8 6.5,3.7 "
+             id="polygon766" />
+          <polygon
+             points="1.5,7.3 1.6,7.5 1.4,7.5 1.2,7.7 1.3,7.4 1.1,7.4 1.3,7.2 1.4,7 1.5,7.1 1.7,7.1 "
+             id="polygon768" />
+          <polygon
+             points="2.6,6.7 2.6,6.9 2.5,6.9 2.3,7.1 2.3,6.8 2.2,6.8 2.4,6.6 2.5,6.4 2.6,6.5 2.7,6.4 "
+             id="polygon770" />
+          <polygon
+             points="3.7,6.1 3.7,6.2 3.5,6.2 3.4,6.4 3.4,6.2 3.3,6.1 3.5,6 3.5,5.8 3.6,5.9 3.8,5.8 "
+             id="polygon772" />
+          <polygon
+             points="4.7,5.4 4.8,5.6 4.6,5.6 4.5,5.8 4.5,5.6 4.4,5.5 4.5,5.4 4.6,5.1 4.7,5.3 4.9,5.2 "
+             id="polygon774" />
+          <polygon
+             points="5.8,4.8 5.8,5 5.7,5 5.5,5.2 5.6,5 5.4,4.9 5.6,4.8 5.7,4.5 5.8,4.7 5.9,4.6 "
+             id="polygon776" />
+          <polygon
+             points="6.9,4.2 6.9,4.4 6.8,4.4 6.6,4.6 6.6,4.4 6.5,4.3 6.7,4.2 6.8,3.9 6.8,4.1 7,4 "
+             id="polygon778" />
+          <polygon
+             points="2.1,7.6 2.1,7.8 1.9,7.8 1.8,8 1.8,7.8 1.7,7.7 1.9,7.6 1.9,7.3 2,7.5 2.2,7.4 "
+             id="polygon780" />
+          <polygon
+             points="3.1,7 3.2,7.2 3,7.2 2.9,7.4 2.9,7.2 2.8,7.1 2.9,6.9 3,6.7 3.1,6.8 3.3,6.8 "
+             id="polygon782" />
+          <polygon
+             points="4.2,6.4 4.2,6.6 4.1,6.6 3.9,6.8 4,6.5 3.8,6.5 4,6.3 4.1,6.1 4.2,6.2 4.3,6.2 "
+             id="polygon784" />
+          <polygon
+             points="5.3,5.8 5.3,6 5.2,6 5,6.1 5,5.9 4.9,5.8 5.1,5.7 5.2,5.5 5.2,5.6 5.4,5.5 "
+             id="polygon786" />
+          <polygon
+             points="6.4,5.1 6.4,5.3 6.2,5.3 6.1,5.5 6.1,5.3 6,5.2 6.1,5.1 6.2,4.9 6.3,5 6.5,4.9 "
+             id="polygon788" />
+          <polygon
+             points="1.5,8.5 1.6,8.7 1.4,8.7 1.2,8.9 1.3,8.7 1.1,8.6 1.3,8.4 1.4,8.2 1.5,8.4 1.7,8.3 "
+             id="polygon790" />
+          <polygon
+             points="2.6,7.9 2.6,8.1 2.5,8.1 2.3,8.3 2.3,8 2.2,8 2.4,7.8 2.5,7.6 2.6,7.7 2.7,7.7 "
+             id="polygon792" />
+          <polygon
+             points="3.7,7.3 3.7,7.5 3.5,7.5 3.4,7.6 3.4,7.4 3.3,7.3 3.5,7.2 3.5,7 3.6,7.1 3.8,7 "
+             id="polygon794" />
+          <polygon
+             points="4.7,6.7 4.8,6.8 4.6,6.8 4.5,7 4.5,6.8 4.4,6.7 4.5,6.6 4.6,6.4 4.7,6.5 4.9,6.4 "
+             id="polygon796" />
+          <polygon
+             points="5.8,6 5.8,6.2 5.7,6.2 5.5,6.4 5.6,6.2 5.4,6.1 5.6,6 5.7,5.7 5.8,5.9 5.9,5.8 "
+             id="polygon798" />
+          <polygon
+             points="6.9,5.4 6.9,5.6 6.8,5.6 6.6,5.8 6.6,5.6 6.5,5.5 6.7,5.4 6.8,5.1 6.8,5.3 7,5.2 "
+             id="polygon800" />
+        </g>
+      </g>
+      <g
+         transform="translate(5,8)"
+         id="g802">
+        <path
+           d="M 0.8,39.6 6.4,36.8 8,37 1.6,40.1 C 1.5,40 1.3,39.9 1.1,39.8 1,39.7 0.9,39.7 0.8,39.6 Z"
+           id="path804"
+           inkscape:connector-curvature="0"
+           style="fill:#4d4d4d" />
+        <rect
+           width="1.6"
+           height="36.700001"
+           x="6.5"
+           y="0.30000001"
+           id="rect806"
+           style="fill:#857f71" />
+        <polygon
+           points="8.8,1.1 8.4,0.4 8,0.7 8,11.9 8.4,11.7 8.5,1.2 "
+           id="polygon808"
+           style="fill:#4d4d4d" />
+      </g>
+    </g>
+  </g>
+</svg>
